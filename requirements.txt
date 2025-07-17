@@ -1,0 +1,3 @@
+PyQt5>=5.15.9  # 用于GUI界面开发（根据代码中使用的PyQt5模块确定）
+
+# 打包程序：pyinstaller.exe --onedir --contents-directory .  -w --add-data "resources;resources" --hidden-import=PyQt5.sip -i logo.ico --add-data "mathjax;mathjax" --version-file file_version_info.txt --name Cheqory main_control.py

@@ -1,0 +1,3297 @@
+[
+  {
+    "question": "乙酸乙酯在酸性条件下水解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{H2O} \\xrightleftharpoons[\\Delta]{\\ce{H^+}} \\ce{CH3COOH} + \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{H2O} \\rightarrow \\ce{CH3COONa} + \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{NaOH} \\rightarrow \\ce{CH3COONa} + \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{H2O} \\rightarrow \\ce{CH3COOH} + \\ce{CH3CH2ONa}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：酸催化酯水解，可逆符号体现平衡。</p><pB、C、D 条件或产物不符。</p>"
+  },
+  {
+    "question": "苯与硝酸发生硝化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\xrightarrow[60^{\\circ}\\text{C}]{\\ce{H2SO4}} \\ce{C6H5NO2} + \\ce{H2O}\\)",
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\rightarrow \\ce{C6H5NO2} + \\ce{H2O}\\)",
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\xrightarrow{\\Delta} \\ce{C6H5NO2} + \\ce{H2}\\)",
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\rightarrow \\ce{C6H5NO} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：浓硫酸催化硝化生成硝基苯。</p><pB 缺催化剂；C 产物不符；D 化学式错误。</p>"
+  },
+  {
+    "question": "蔗糖完全水解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\xrightarrow{\\text{H^+}} \\ce{C6H12O6} + \\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\rightarrow \\ce{2C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} \\xrightarrow{\\text{H^+}} \\ce{C6H12O6} + \\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\rightarrow \\ce{C6H12O5} + \\ce{C6H12O6}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：蔗糖在酸催化下水解为葡萄糖和果糖。</p><pB、C、D 计量或产物不符。</p>"
+  },
+  {
+    "question": "乙炔与溴水加成的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH#CH} + 2\\ce{Br2} \\rightarrow \\ce{CHBr2CHBr2}\\)",
+      "\\(\\ce{CH#CH} + \\ce{Br2} \\rightarrow \\ce{CHBr=CHBr}\\)",
+      "\\(\\ce{CH#CH} + \\ce{Br2} \\rightarrow \\ce{CH2=CHBr}\\)",
+      "\\(\\ce{CH#CH} + \\ce{Br2} \\rightarrow \\ce{CH2=CHBr} + \\ce{HBr}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：三键完全加成生成四溴乙烷。</p><pB、C、D 反应不完全或产物不符。</p>"
+  },
+  {
+    "question": "油脂皂化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\text{油脂} + 3\\ce{NaOH} \\xrightarrow{\\Delta} \\text{甘油} + 3\\ce{R-COO^-Na^+}\\)",
+      "\\(\\text{油脂} + \\ce{NaOH} \\rightarrow \\text{甘油} + \\ce{R-COOH}\\)",
+      "\\(\\text{油脂} + 3\\ce{H2O} \\rightarrow \\text{甘油} + 3\\ce{R-COOH}\\)",
+      "\\(\\text{油脂} + \\ce{NaOH} \\rightarrow \\text{甘油} + \\ce{R-COONa}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：1 mol 油脂水解需 3 mol NaOH。</p><pB、C、D 计量或产物不符。</p>"
+  },
+  {
+    "question": "蛋白质完全水解的最终产物是：",
+    "options": [
+      "\\(\\text{氨基酸}\\)",
+      "\\(\\text{葡萄糖}\\)",
+      "\\(\\text{脂肪酸}\\)",
+      "\\(\\text{核苷酸}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：蛋白质水解最终生成氨基酸。</p><pB、C、D 均非蛋白质水解产物。</p>"
+  },
+  {
+    "question": "葡萄糖与新制氢氧化铜反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH2OH(CHOH)4CHO} + 2\\ce{Cu(OH)2} + \\ce{NaOH} \\rightarrow \\ce{CH2OH(CHOH)4COONa} + \\ce{Cu2O v} + 3\\ce{H2O}\\)",
+      "\\(\\ce{CH2OH(CHOH)4CHO} + \\ce{Cu(OH)2} \\rightarrow \\ce{CH2OH(CHOH)4COOH} + \\ce{CuO}\\)",
+      "\\(\\ce{CH2OH(CHOH)4CHO} + \\ce{Cu(OH)2} \\rightarrow \\ce{CH2OH(CHOH)4CH2OH} + \\ce{Cu}\\)",
+      "\\(\\ce{CH2OH(CHOH)4CHO} + \\ce{Cu(OH)2} \\rightarrow \\ce{CH2OH(CHOH)4COOH} + \\ce{Cu(OH)2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：醛基被 \\(\\ce{Cu(OH)2}\\) 氧化生成红色 \\(\\ce{Cu2O}\\)。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙醇与钠反应的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{CH3CH2OH} + 2\\ce{Na} \\rightarrow 2\\ce{CH3CH2ONa} + \\ce{H2 ^}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{Na} \\rightarrow \\ce{CH3CH2ONa} + \\ce{H2 ^}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{Na} \\rightarrow \\ce{CH3CH2ONa} + \\ce{NaH}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{Na} \\rightarrow \\ce{CH3CH2OH} + \\ce{NaOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 乙醇对应 1 \\(\\ce{H2}\\)，气体符号↑。</p><pB 未配平；C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙酸与乙醇酯化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\xrightleftharpoons[\\Delta]{\\ce{H2SO4}} \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\rightarrow \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{2CH3COOH} + \\ce{CH3CH2OH} \\xrightleftharpoons[\\Delta]{\\ce{H2SO4}} \\ce{(CH3COO)2CH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3OH} \\xrightleftharpoons[\\Delta]{\\ce{H2SO4}} \\ce{CH3COOCH3} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：酸催化酯化，可逆符号体现平衡。</p><pB 缺催化剂；C、D 产物不符。</p>"
+  },
+  {
+    "question": "蔗糖完全水解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\xrightarrow{\\ce{H^+}} \\ce{C6H12O6} + \\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} \\rightarrow \\ce{C6H12O6} + \\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\xrightarrow{\\ce{H^+}} \\ce{2C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\rightarrow \\ce{C6H12O5} + \\ce{C6H12O6}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：蔗糖在酸催化下水解为葡萄糖和果糖。</p><pB 未加水；C 计量错误；D 产物不符。</p>"
+  },
+  {
+    "question": "蛋白质完全水解的最终产物是：",
+    "options": ["\\(\\text{氨基酸}\\)", "\\(\\text{葡萄糖}\\)", "\\(\\text{脂肪酸}\\)", "\\(\\text{核苷酸}\\)"],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>蛋白质水解最终生成氨基酸。</p>"
+  },
+  {
+    "question": "葡萄糖与新制氢氧化铜反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH2OH(CHOH)4CHO} + 2\\ce{Cu(OH)2} + \\ce{NaOH} \\rightarrow \\ce{CH2OH(CHOH)4COONa} + \\ce{Cu2O\\downarrow} + 3\\ce{H2O}\\)",
+      "\\(\\ce{CH2OH(CHOH)4CHO} + \\ce{Cu(OH)2} \\rightarrow \\ce{CH2OH(CHOH)4COOH} + \\ce{CuO}\\)",
+      "\\(\\ce{CH2OH(CHOH)4CHO} + \\ce{Cu(OH)2} \\rightarrow \\ce{CH2OH(CHOH)4CH2OH} + \\ce{Cu}\\)",
+      "\\(\\ce{CH2OH(CHOH)4CHO} + \\ce{Cu(OH)2} \\rightarrow \\ce{CH2OH(CHOH)4COOH} + \\ce{Cu(OH)2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：醛基被 \\(\\ce{Cu(OH)2}\\) 氧化生成红色 \\(\\ce{Cu2O}\\)。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙醇与钠反应的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{CH3CH2OH} + 2\\ce{Na} \\rightarrow 2\\ce{CH3CH2ONa} + \\ce{H2 ^}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{Na} \\rightarrow \\ce{CH3CH2ONa} + \\ce{H2 ^}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{Na} \\rightarrow \\ce{CH3CH2ONa} + \\ce{NaH}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{Na} \\rightarrow \\ce{CH3CH2OH} + \\ce{NaOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 乙醇对应 1 \\(\\ce{H2}\\)，气体符号↑。</p><pB 未配平；C、D 产物不符。</p>"
+  },
+  {
+    "question": "油脂皂化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\text{油脂} + 3\\ce{NaOH} \\xrightarrow{\\Delta} \\text{甘油} + 3\\ce{R-COO^-Na^+}\\)",
+      "\\(\\text{油脂} + \\ce{NaOH} \\rightarrow \\text{甘油} + \\ce{R-COOH}\\)",
+      "\\(\\text{油脂} + 3\\ce{H2O} \\rightarrow \\text{甘油} + 3\\ce{R-COOH}\\)",
+      "\\(\\text{油脂} + \\ce{NaOH} \\rightarrow \\text{甘油} + \\ce{R-COONa}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：1 mol 油脂水解需 3 mol NaOH。</p><pB、C、D 计量或产物不符。</p>"
+  },
+  {
+    "question": "乙酸与碳酸钠反应的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow 2\\ce{CH3COONa} + \\ce{CO2 ^} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow \\ce{CH3COONa} + \\ce{CO2 ^} + \\ce{H2O}\\)",
+      "\\(2\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow 2\\ce{CH3COONa} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow \\ce{(CH3COO)2Na} + \\ce{CO2 ^} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 乙酸对应 1 碳酸钠，放出 \\(\\ce{CO2}\\)。</p><pB 未配平；C 缺水；D 化学式错误。</p>"
+  },
+  {
+    "question": "铝与氢氧化钠溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Al} + 2\\ce{OH^-} + 2\\ce{H2O} \\rightarrow 2\\ce{AlO2^-} + 3\\ce{H2 ^}\\)",
+      "\\(\\ce{Al} + \\ce{OH^-} \\rightarrow \\ce{AlO2^-} + \\ce{H2 ^}\\)",
+      "\\(\\ce{Al} + 3\\ce{OH^-} \\rightarrow \\ce{Al(OH)3 v}\\)",
+      "\\(\\ce{2Al} + 6\\ce{OH^-} \\rightarrow 2\\ce{AlO2^-} + 3\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{Al}\\) 被 \\(\\ce{OH^-}\\)/\\(\\ce{H2O}\\) 氧化生成 \\(\\ce{AlO2^-}\\) 和 \\(\\ce{H2}\\)。</p><pB 未配平；C 生成沉淀；D 配平错误。</p>"
+  },
+  {
+    "question": "蔗糖与稀硫酸共热完全水解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\xrightarrow{\\ce{H^+}} \\ce{C6H12O6} + \\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} \\rightarrow \\ce{C6H12O6} + \\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\rightarrow 2\\ce{C6H12O6}\\)",
+      "\\(\\ce{C12H22O11} + \\ce{H2O} \\rightarrow \\ce{C6H12O5} + \\ce{C6H12O6}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：蔗糖 → 葡萄糖 + 果糖，酸催化。</p><pB 未加水；C 计量错误；D 产物不符。</p>"
+  },
+  {
+    "question": "苯与浓硫酸、浓硝酸发生硝化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\xrightarrow[60^{\\circ}\\mathrm{C}]{\\ce{H2SO4}} \\ce{C6H5NO2} + \\ce{H2O}\\)",
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\rightarrow \\ce{C6H5NO2} + \\ce{H2O}\\)",
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\xrightarrow{\\Delta} \\ce{C6H5NO2} + \\ce{H2}\\)",
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\rightarrow \\ce{C6H5NO} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：硝化反应需浓硫酸催化，温度 60 °C。</p><pB 缺催化剂；C 产物不符；D 化学式错误。</p>"
+  },
+  {
+    "question": "乙炔与氢气加成生成乙烯的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH#CH} + \\ce{H2} \\xrightarrow{\\ce{Ni}} \\ce{CH2=CH2}\\)",
+      "\\(\\ce{CH#CH} + 2\\ce{H2} \\rightarrow \\ce{CH3CH3}\\)",
+      "\\(\\ce{CH#CH} + \\ce{H2} \\rightarrow \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH#CH} + \\ce{H2} \\rightarrow \\ce{CH4}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：Ni 催化下乙炔加氢生成乙烯。</p><pB 过度加氢；C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙醛与氢气加成生成乙醇的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CHO} + \\ce{H2} \\xrightarrow{\\ce{Ni}} \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3CHO} + \\ce{H2} \\rightarrow \\ce{CH3CH3}\\)",
+      "\\(\\ce{CH3CHO} + 2\\ce{H2} \\rightarrow \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3CHO} + \\ce{H2} \\rightarrow \\ce{CH3COOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：Ni 催化下乙醛加氢生成乙醇。</p><pB、C、D 产物或计量不符。</p>"
+  },
+  {
+    "question": "乙酸与碳酸钙反应的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{CH3COOH} + \\ce{CaCO3} \\rightarrow (\\ce{CH3COO})2\\ce{Ca} + \\ce{CO2 ^} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CaCO3} \\rightarrow \\ce{CH3COOCa} + \\ce{CO2 ^} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CaCO3} \\rightarrow \\ce{Ca(CH3COO)2} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CaCO3} \\rightarrow \\ce{CH3COOCa} + \\ce{CO2 ^} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 乙酸对应 1 碳酸钙，放出 \\(\\ce{CO2}\\)。</p><pB、C、D 化学式或计量不符。</p>"
+  },
+  {
+    "question": "乙炔与溴水加成的第一步化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH#CH} + \\ce{Br2} \\rightarrow \\ce{CHBr=CHBr}\\)",
+      "\\(\\ce{CH#CH} + 2\\ce{Br2} \\rightarrow \\ce{CHBr2CHBr2}\\)",
+      "\\(\\ce{CH#CH} + \\ce{Br2} \\rightarrow \\ce{CH2=CHBr}\\)",
+      "\\(\\ce{CH#CH} + \\ce{Br2} \\rightarrow \\ce{CH2=CHBr} + \\ce{HBr}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：三键第一步加成生成二溴乙烯。</p><pB 完全加成；C、D 产物不符。</p>"
+  },
+  {
+    "question": "葡萄糖发酵生成乙醇的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H12O6} \\xrightarrow{\\text{酶}} 2\\ce{C2H5OH} + 2\\ce{CO2 ^}\\)",
+      "\\(\\ce{C6H12O6} \\rightarrow \\ce{C2H5OH} + \\ce{CO2}\\)",
+      "\\(\\ce{C6H12O6} \\rightarrow \\ce{C2H5OH} + \\ce{CO2 ^} + \\ce{H2}\\)",
+      "\\(\\ce{C6H12O6} \\rightarrow \\ce{C2H5OH} + 3\\ce{CO2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：无氧发酵生成 2 乙醇 + 2 \\(\\ce{CO2}\\)。</p><pB、C、D 计量不符。</p>"
+  },
+  {
+    "question": "乙酸乙酯水解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{H2O} \\xrightarrow{\\ce{H^+}} \\ce{CH3COOH} + \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{H2O} \\rightarrow \\ce{CH3COONa} + \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{NaOH} \\rightarrow \\ce{CH3COONa} + \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH3COOCH2CH3} + \\ce{H2O} \\rightarrow \\ce{CH3COOH} + \\ce{CH3CH2ONa}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：酸催化酯水解，可逆符号体现平衡。</p><pB、C、D 条件或产物不符。</p>"
+  },
+  {
+    "question": "苯酚与溴水反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H5OH} + 3\\ce{Br2} \\rightarrow \\ce{C6H2Br3OH v} + 3\\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + \\ce{Br2} \\rightarrow \\ce{C6H4BrOH v} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + 2\\ce{Br2} \\rightarrow \\ce{C6H3Br2OH v} + 2\\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + \\ce{Br2} \\rightarrow \\ce{C6H5Br} + \\ce{HOBr}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：生成 2,4,6-三溴苯酚白色沉淀。</p><pB、C、D 取代不足或产物不符。</p>"
+  },
+  {
+    "question": "乙酸与碳酸钠反应的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow 2\\ce{CH3COONa} + \\ce{CO2 ^} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow \\ce{CH3COONa} + \\ce{CO2 ^} + \\ce{H2O}\\)",
+      "\\(2\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow 2\\ce{CH3COONa} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{Na2CO3} \\rightarrow \\ce{(CH3COO)2Na} + \\ce{CO2 ^} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 乙酸对应 1 碳酸钠，放出 \\(\\ce{CO2}\\)。</p><pB 未配平；C 缺 \\(\\ce{H2O}\\)；D 化学式错误。</p>"
+  },
+  {
+    "question": "乙醛银镜反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CHO} + 2[\\ce{Ag(NH3)2}]^{+} + 2\\ce{OH^-} \\xrightarrow{\\Delta} \\ce{CH3COO^-} + 2\\ce{Ag\\downarrow} + 3\\ce{NH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CHO} + \\ce{Ag2O} \\rightarrow \\ce{CH3COOH} + 2\\ce{Ag\\downarrow}\\)",
+      "\\(\\ce{CH3CHO} + 2\\ce{Ag^+} + \\ce{H2O} \\rightarrow \\ce{CH3COOH} + 2\\ce{Ag\\downarrow} + 2\\ce{H^+}\\)",
+      "\\(2\\ce{CH3CHO} + \\ce{O2} \\rightarrow 2\\ce{CH3COOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：银氨络离子在碱性条件下氧化醛基，生成羧酸铵、银镜与氨，符合实验现象。</p><pB 未使用银氨溶液，且缺乏碱性环境；C 酸性条件下银离子不形成银镜；D 催化氧化非银镜反应。</p>"
+  },
+  {
+    "question": "碳酸氢钠受热分解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{2NaHCO3} \\xrightarrow{\\Delta} \\ce{Na2CO3} + \\ce{H2O} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{NaHCO3} \\xrightarrow{\\Delta} \\ce{NaOH} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{2NaHCO3} \\xrightarrow{\\Delta} 2\\ce{NaOH} + 2\\ce{CO2 ^}\\)",
+      "\\(\\ce{NaHCO3} \\xrightarrow{\\Delta} \\ce{Na2CO3} + \\ce{CO2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：270 °C 分解，生成碳酸钠、水和二氧化碳。</p><p>B、C、D 产物或配平不符。</p>"
+  },
+  {
+    "question": "二氧化锰与浓盐酸共热的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{MnO2} + 4\\ce{HCl(\\text{浓})} \\xrightarrow{\\Delta} \\ce{MnCl2} + \\ce{Cl2 ^} + 2\\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\xrightarrow{\\Delta} \\ce{MnCl2} + \\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\rightarrow \\ce{MnO} + \\ce{Cl2 ^} + \\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\rightarrow \\ce{MnCl2} + \\ce{H2 ^} + \\ce{O2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{MnO2}\\) 将浓盐酸氧化生成 \\(\\ce{Cl2}\\)，配平完整。</p><pB、C、D 产物或配平不符。</p>"
+  },
+  {
+    "question": "硅酸钠溶液中通入足量 \\(\\ce{CO2}\\) 的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{SiO3^{2-}} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{H2SiO3 v} + \\ce{CO3^{2-}}\\)",
+      "\\(\\ce{SiO3^{2-}} + 2\\ce{CO2} + 2\\ce{H2O} \\rightarrow 2\\ce{HCO3^-} + \\ce{H2SiO3 v}\\)",
+      "\\(\\ce{SiO3^{2-}} + \\ce{CO2} \\rightarrow \\ce{SiO2} + \\ce{CO3^{2-}}\\)",
+      "\\(\\ce{SiO3^{2-}} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{HCO3^-} + \\ce{HSiO3^-}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：少量 \\(\\ce{CO2}\\) 与 \\(\\ce{SiO3^{2-}}\\) 反应生成硅酸沉淀和 \\(\\ce{CO3^{2-}}\\)。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "电解饱和食盐水的总反应方程式正确的是：",
+    "options": [
+      "\\(2\\ce{NaCl} + 2\\ce{H2O} \\xrightarrow{\\text{电解}} 2\\ce{NaOH} + \\ce{H2 ^} + \\ce{Cl2 ^}\\)",
+      "\\(\\ce{NaCl} + \\ce{H2O} \\xrightarrow{\\text{电解}} \\ce{NaOH} + \\ce{HCl}\\)",
+      "\\(2\\ce{NaCl} \\xrightarrow{\\text{电解}} 2\\ce{Na} + \\ce{Cl2 ^}\\)",
+      "\\(2\\ce{H2O} \\xrightarrow{\\text{电解}} 2\\ce{H2 ^} + \\ce{O2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：隔膜电解槽中，\\(\\ce{Cl^-}\\) 在阳极氧化为 \\(\\ce{Cl2}\\)，\\(\\ce{H2O}\\) 在阴极还原为 \\(\\ce{H2}\\) 和 \\(\\ce{OH^-}\\)，生成 \\(\\ce{NaOH}\\)。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "铜与稀硝酸反应的化学方程式正确的是：",
+    "options": [
+      "\\(3\\ce{Cu} + 8\\ce{HNO3(\\text{稀})} \\rightarrow 3\\ce{Cu(NO3)2} + 2\\ce{NO ^} + 4\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{Cu(NO3)2} + \\ce{H2 ^}\\)",
+      "\\(\\ce{Cu} + 4\\ce{HNO3(\\text{浓})} \\rightarrow \\ce{Cu(NO3)2} + 2\\ce{NO2 ^} + 2\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{CuO} + 2\\ce{NO} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：稀硝酸还原产物为 \\(\\ce{NO}\\)，配平完整。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "氢气还原氧化铜的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu} + \\ce{H2O}\\)",
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu} + \\ce{H2 ^}\\)",
+      "\\(\\ce{H2} + 2\\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu2O} + \\ce{H2O}\\)",
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{CuOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氢气在加热条件下将 \\(\\ce{CuO}\\) 还原为金属铜并生成水，颜色由黑变红。</p><pB 产物为水，不是氢气；C、D 产物不符。</p>"
+  },
+  {
+    "question": "碳酸氢钠受热分解的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{2NaHCO3} \\xrightarrow{\\Delta} \\ce{Na2CO3} + \\ce{H2O} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{NaHCO3} \\xrightarrow{\\Delta} \\ce{NaOH} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{2NaHCO3} \\xrightarrow{\\Delta} 2\\ce{NaOH} + 2\\ce{CO2 ^}\\)",
+      "\\(\\ce{NaHCO3} \\xrightarrow{\\Delta} \\ce{Na2CO3} + \\ce{CO2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：270 °C 分解，生成碳酸钠、水和二氧化碳，配平完整。</p><pB 产物应为碳酸钠而非氢氧化钠；C、D 配平或产物不符。</p>"
+  },
+  {
+    "question": "氨气催化氧化的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{4NH3} + 5\\ce{O2} \\xrightarrow{\\ce{Pt}, 850^{\\circ}\\text{C}} 4\\ce{NO} + 6\\ce{H2O}\\)",
+      "\\(\\ce{4NH3} + 3\\ce{O2} \\xrightarrow{\\ce{Pt}} 2\\ce{N2} + 6\\ce{H2O}\\)",
+      "\\(2\\ce{NH3} + \\ce{O2} \\xrightarrow{\\ce{Pt}} 2\\ce{NO2} + 3\\ce{H2}\\)",
+      "\\(2\\ce{NH3} + \\ce{O2} \\rightarrow \\ce{N2O} + 3\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：工业接触法制硝酸第一步，氨催化氧化生成 NO 与水，温度 850 °C、Pt-Rh 催化。</p><pB 高温缺氧条件下生成 N₂，非主流程；C、D 产物不符。</p>"
+  },
+  {
+    "question": "镁条在二氧化碳中燃烧的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{2MgO} + \\ce{C}\\)",
+      "\\(\\ce{Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{MgO} + \\ce{CO}\\)",
+      "\\(\\ce{Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{MgCO3}\\)",
+      "\\(2\\ce{Mg} + \\ce{CO2} \\rightarrow \\ce{2MgO} + \\ce{CO2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：镁还原 CO₂，生成 MgO 和黑色碳粉，反应剧烈放热。</p><pB 产物 CO 不是主要最终产物；C 高温下碳酸镁立即分解，不会稳定存在；D 产物重复 CO₂，违背质量守恒。</p>"
+  },
+  {
+    "question": "氢氧化亚铁被空气中氧气氧化的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{4Fe(OH)2} + \\ce{O2} + \\ce{2H2O} \\rightarrow \\ce{4Fe(OH)3}\\)",
+      "\\(\\ce{4Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{4FeO} + \\ce{2H2O}\\)",
+      "\\(\\ce{2Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{2Fe2O3} + \\ce{4H2O}\\)",
+      "\\(\\ce{Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{Fe3O4} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氢氧化亚铁在空气中逐步被氧化为红褐色的氢氧化铁，需水参与。</p><pB 产物 FeO 在碱性环境中不稳定；C 直接生成 Fe₂O₃ 需更高温度及脱水条件；D 计量与产物不符。</p>"
+  },
+  {
+    "question": "二氧化锰与浓盐酸共热的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{MnO2} + 4\\ce{HCl(\\text{浓})} \\xrightarrow{\\Delta} \\ce{MnCl2} + \\ce{Cl2 ^} + 2\\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\xrightarrow{\\Delta} \\ce{MnCl2} + \\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\rightarrow \\ce{MnO} + \\ce{Cl2 ^} + \\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\rightarrow \\ce{MnCl2} + \\ce{H2 ^} + \\ce{O2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{MnO2}\\) 既作氧化剂又作还原剂，生成 \\(\\ce{MnCl2}\\) 并放出 \\(\\ce{Cl2}\\)，配平完整。</p><pB 缺少氧化产物 \\(\\ce{Cl2}\\)；C、D 产物不存在且过氧化氢不生成。</p>"
+  },
+  {
+    "question": "硅酸钠溶液中通入足量 \\(\\ce{CO2}\\) 的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{Na2SiO3} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{Na2CO3} + \\ce{H2SiO3\\downarrow}\\)",
+      "\\(\\ce{Na2SiO3} + 2\\ce{CO2} + 2\\ce{H2O} \\rightarrow 2\\ce{NaHCO3} + \\ce{H2SiO3\\downarrow}\\)",
+      "\\(\\ce{Na2SiO3} + \\ce{CO2} \\rightarrow \\ce{Na2CO3} + \\ce{SiO2}\\)",
+      "\\(\\ce{Na2SiO3} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{NaHCO3} + \\ce{NaHSiO3}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：碳酸酸性强于硅酸，置换出硅酸凝胶沉淀。</p><pB 足量 \\(\\ce{CO2}\\) 生成 \\(\\ce{NaHCO3}\\)，但计量比例不符；C \\(\\ce{SiO2}\\) 不直接沉淀；D 产物与实验事实不符。</p>"
+  },
+  {
+    "question": "电解饱和食盐水的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{NaCl} + 2\\ce{H2O} \\xrightarrow{\\text{电解}} 2\\ce{NaOH} + \\ce{H2 ^} + \\ce{Cl2 ^}\\)",
+      "\\(\\ce{NaCl} + \\ce{H2O} \\xrightarrow{\\text{电解}} \\ce{NaOH} + \\ce{HCl}\\)",
+      "\\(2\\ce{NaCl} \\xrightarrow{\\text{电解}} 2\\ce{Na} + \\ce{Cl2 ^}\\)",
+      "\\(2\\ce{H2O} \\xrightarrow{\\text{电解}} 2\\ce{H2 ^} + \\ce{O2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：隔膜电解槽中，\\(\\ce{Cl^-}\\) 在阳极氧化为 \\(\\ce{Cl2}\\)，\\(\\ce{H2O}\\) 在阴极还原为 \\(\\ce{H2}\\) 和 \\(\\ce{OH^-}\\)，生成 \\(\\ce{NaOH}\\)。</p><pB 无 \\(\\ce{HCl}\\) 气体生成；C 水溶液中 \\(\\ce{Na^+}\\) 不会被还原为金属钠；D 忽略了 \\(\\ce{Cl^-}\\) 放电。</p>"
+  },
+  {
+    "question": "铜与稀硝酸反应的化学方程式正确的是：",
+    "options": [
+      "\\(3\\ce{Cu} + 8\\ce{HNO3(\\text{稀})} \\rightarrow 3\\ce{Cu(NO3)2} + 2\\ce{NO ^} + 4\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{Cu(NO3)2} + \\ce{H2 ^}\\)",
+      "\\(\\ce{Cu} + 4\\ce{HNO3(\\text{浓})} \\rightarrow \\ce{Cu(NO3)2} + 2\\ce{NO2 ^} + 2\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{CuO} + 2\\ce{NO} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：稀硝酸还原产物为 \\(\\ce{NO}\\)，配平完整。</p><pB 硝酸为氧化性酸，无 \\(\\ce{H2}\\) 放出；C 浓硝酸产物应为 \\(\\ce{NO2}\\)，非 \\(\\ce{NO}\\)；D \\(\\ce{CuO}\\) 在高温水蒸气中并非主要产物。</p>"
+  },
+  {
+    "question": "硫酸铜晶体加热失水的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{\\Delta} \\ce{CuSO4} + 5\\ce{H2O ^}\\)",
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{\\Delta} \\ce{CuO} + \\ce{SO3} + 5\\ce{H2O ^}\\)",
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{100^{\\circ}\\mathrm{C}} \\ce{CuSO4 \\cdot 3H2O} + 2\\ce{H2O ^}\\)",
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{250^{\\circ}\\mathrm{C}} \\ce{CuSO4} + 5\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：加热至 >200 °C 五水硫酸铜完全失水变为白色无水硫酸铜。</p><pB、C、D 温度或产物不符。</p>"
+  },
+  {
+    "question": "氢气还原氧化铜的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu} + \\ce{H2O}\\)",
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu} + \\ce{H2 ^}\\)",
+      "\\(\\ce{H2} + 2\\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu2O} + \\ce{H2O}\\)",
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{CuOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氢气在加热条件下将 \\(\\ce{CuO}\\) 还原为金属铜并生成水，颜色由黑变红。</p><pB 产物为水，不是氢气；C、D 产物不符。</p>"
+  },
+  {
+    "question": "检验硫酸根离子时，正确的离子方程式是：",
+    "options": [
+      "\\(\\ce{Ba^{2+} + SO4^{2-} \\rightarrow BaSO4 v}\\)",
+      "\\(\\ce{Ba^{2+} + SO3^{2-} \\rightarrow BaSO3 v}\\)",
+      "\\(\\ce{Ba^{2+} + SO4^{2-} \\rightarrow Ba^{2+} + SO4^{2-}}\\)",
+      "\\(\\ce{Ba^{2+} + SO4^{2-} \\rightarrow BaSO4 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{Ba^{2+} + SO4^{2-} \\rightarrow BaSO4 v}\\)，白色沉淀且不溶于酸。</p><p>B 错误：检验硫酸根不应出现亚硫酸根。</p><p>C 错误：离子未沉淀。</p><p>D 错误：沉淀符号应使用 \\(\\ce{v}\\)。</p>"
+  },
+  {
+    "question": "实验室用氯化铵与消石灰制取氨气的化学方程式是：",
+    "options": [
+      "\\(\\ce{NH4Cl + Ca(OH)2 \\rightarrow[\\Delta] CaCl2 + NH3 ^ + H2O}\\)",
+      "\\(\\ce{2NH4Cl + Ca(OH)2 \\rightarrow[\\Delta] CaCl2 + 2NH3 ^ + 2H2O}\\)",
+      "\\(\\ce{NH4Cl + NaOH \\rightarrow[\\Delta] NaCl + NH3 ^ + H2O}\\)",
+      "\\(\\ce{NH4NO3 + NaOH \\rightarrow[\\Delta] NaNO3 + NH3 ^ + H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：配平后 2 \\(\\ce{NH4Cl}\\) 对应 2 \\(\\ce{NH3}\\)。</p><p>A、C、D 均存在配平或反应物问题。</p>"
+  },
+  {
+    "question": "氯气与冷氢氧化钠溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{Cl2 + 2OH^- \\rightarrow Cl^- + ClO^- + H2O}\\)",
+      "\\(\\ce{Cl2 + OH^- \\rightarrow Cl^- + HClO}\\)",
+      "\\(\\ce{Cl2 + 2OH^- \\rightarrow 2Cl^- + H2O2}\\)",
+      "\\(\\ce{2Cl2 + 2OH^- \\rightarrow 2Cl^- + Cl2O + H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：歧化反应，生成 \\(\\ce{Cl^-}\\) 和 \\(\\ce{ClO^-}\\)。</p><p>B 未配平；C、D 产物不符。</p>"
+  },
+  {
+    "question": "铁在水蒸气中高温反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{3Fe + 4H2O(g) \\rightarrow[\\text{高温}] Fe3O4 + 4H2 ^}\\)",
+      "\\(\\ce{Fe + H2O(g) \\rightarrow[\\text{高温}] FeO + H2 ^}\\)",
+      "\\(\\ce{2Fe + 3H2O(g) \\rightarrow[\\text{高温}] Fe2O3 + 3H2 ^}\\)",
+      "\\(\\ce{4Fe + 3H2O(g) \\rightarrow[\\text{高温}] 2Fe2O3 + 3H2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：高温下生成 \\(\\ce{Fe3O4}\\)。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "铝热反应（Fe₂O₃ 作氧化剂）的方程式正确的是：",
+    "options": [
+      "\\(\\ce{Fe2O3 + 2Al \\rightarrow[\\text{高温}] 2Fe + Al2O3}\\)",
+      "\\(\\ce{Fe2O3 + Al \\rightarrow[\\text{高温}] Fe + Al2O3}\\)",
+      "\\(\\ce{Fe2O3 + 3Al \\rightarrow[\\text{高温}] 2Fe + 3AlO}\\)",
+      "\\(\\ce{Fe2O3 + Al \\rightarrow[\\text{高温}] FeO + Al2O3}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：配平 2 Al 对应 2 Fe。</p><p>B 未配平；C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙酸与碳酸钠反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{2CH3COOH + Na2CO3 \\rightarrow 2CH3COONa + CO2 ^ + H2O}\\)",
+      "\\(\\ce{CH3COOH + Na2CO3 \\rightarrow CH3COONa + CO2 ^ + H2O}\\)",
+      "\\(\\ce{2CH3COOH + Na2CO3 \\rightarrow CH3COONa + CO2 ^ + H2O}\\)",
+      "\\(\\ce{CH3COOH + Na2CO3 \\rightarrow (CH3COO)2Na + CO2 ^ + H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 乙酸对应 1 碳酸钠。</p><p>B、C、D 均存在配平或化学式问题。</p>"
+  },
+  {
+    "question": "乙醇催化氧化制乙醛的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}/\\Delta} \\ce{CH3CHO} + \\ce{H2O}\\)",
+      "\\(2\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}/\\Delta} 2\\ce{CH3CHO} + 2\\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2OH} \\xrightarrow[\\Delta]{\\ce{Cu}} \\ce{CH3CHO} + \\ce{H2}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{CH3CHO} + \\ce{Cu} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：2 mol 乙醇脱氢需 1 mol O₂，生成 2 mol 乙醛和 2 mol 水。</p><p>A 未配平；C、D 产物不符。</p>"
+  },
+  {
+    "question": "苯与液溴在 FeBr₃ 催化下反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H6} + \\ce{Br2} \\xrightarrow{\\ce{FeBr3}} \\ce{C6H5Br} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H6} + \\ce{Br2} \\xrightarrow{\\text{光照}} \\ce{C6H5Br} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H6} + 3\\ce{Br2} \\xrightarrow{\\ce{FeBr3}} \\ce{C6H6Br6}\\)",
+      "\\(\\ce{C6H6} + \\ce{Br2} \\rightarrow \\ce{C6H4Br2} + \\ce{H2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：FeBr₃ 催化苯环溴代。</p><p>B 光照引发侧链取代；C、D 产物不符。</p>"
+  },
+  {
+    "question": "过氧化钠与二氧化碳反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Na2O2} + \\ce{2CO2} \\rightarrow \\ce{2Na2CO3} + \\ce{O2}\\)",
+      "\\(\\ce{Na2O2} + \\ce{CO2} \\rightarrow \\ce{Na2CO3}\\)",
+      "\\(\\ce{Na2O2} + \\ce{2CO2} \\rightarrow \\ce{2NaHCO3}\\)",
+      "\\(\\ce{Na2O2} + \\ce{CO2} \\rightarrow \\ce{Na2CO3} + \\ce{CO}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：Na₂O₂ 既是氧化剂又是还原剂，生成 Na₂CO₃ 和 O₂。</p><p>B 未配平；C、D 产物不符。</p>"
+  },
+  {
+    "question": "镁条在二氧化碳中燃烧的方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{2MgO} + \\ce{C}\\)",
+      "\\(\\ce{Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{MgO} + \\ce{CO}\\)",
+      "\\(\\ce{Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{MgCO3}\\)",
+      "\\(\\ce{2Mg} + \\ce{CO2} \\rightarrow \\ce{2MgO} + \\ce{CO2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 Mg 还原 CO₂，生成 MgO 和 C。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "氢氧化亚铁在空气中氧化的方程式正确的是：",
+    "options": [
+      "\\(\\ce{4Fe(OH)2} + \\ce{O2} + \\ce{2H2O} \\rightarrow \\ce{4Fe(OH)3}\\)",
+      "\\(\\ce{4Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{4FeO} + \\ce{2H2O}\\)",
+      "\\(\\ce{2Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{2Fe2O3} + \\ce{4H2O}\\)",
+      "\\(\\ce{Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{Fe3O4} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：逐步氧化为红褐色 \\(\\ce{Fe(OH)3}\\)。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "工业制漂白粉的主要反应方程式是：",
+    "options": [
+      "\\(\\ce{2Cl2} + \\ce{2Ca(OH)2} \\rightarrow \\ce{CaCl2} + \\ce{Ca(ClO)2} + \\ce{2H2O}\\)",
+      "\\(\\ce{Cl2} + \\ce{Ca(OH)2} \\rightarrow \\ce{CaCl2} + \\ce{H2O}\\)",
+      "\\(\\ce{Cl2} + \\ce{2NaOH} \\rightarrow \\ce{NaCl} + \\ce{NaClO} + \\ce{H2O}\\)",
+      "\\(\\ce{Ca(ClO)2} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{CaCO3\\downarrow} + \\ce{2HClO}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氯气与消石灰生成漂白粉。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙醛银镜反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CHO} + 2[\\ce{Ag(NH3)2}]^{+} + 2\\ce{OH^-} \\xrightarrow{\\Delta} \\ce{CH3COO^-} + 2\\ce{Ag\\downarrow} + 3\\ce{NH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CHO} + \\ce{Ag2O} \\rightarrow \\ce{CH3COOH} + 2\\ce{Ag\\downarrow}\\)",
+      "\\(\\ce{CH3CHO} + 2\\ce{Ag^+} + \\ce{H2O} \\rightarrow \\ce{CH3COOH} + 2\\ce{Ag\\downarrow} + 2\\ce{H^+}\\)",
+      "\\(2\\ce{CH3CHO} + \\ce{O2} \\rightarrow 2\\ce{CH3COOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：银氨络离子氧化醛基生成银镜。</p><p>B、C、D 条件或产物不符。</p>"
+  },
+  {
+    "question": "苯酚与溴水反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H5OH} + 3\\ce{Br2} \\rightarrow \\ce{C6H2Br3OH\\downarrow} + 3\\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + \\ce{Br2} \\rightarrow \\ce{C6H4BrOH\\downarrow} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + 2\\ce{Br2} \\rightarrow \\ce{C6H3Br2OH\\downarrow} + 2\\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + \\ce{Br2} \\rightarrow \\ce{C6H5Br} + \\ce{HOBr}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：生成 2,4,6-三溴苯酚白色沉淀。</p><p>B、C、D 取代不足或产物不符。</p>"
+  },
+  {
+    "question": "甲烷在光照下与氯气发生取代反应第一步的方程式为：",
+    "options": [
+      "\\(\\ce{CH4} + \\ce{Cl2} \\xrightarrow{\\text{光}} \\ce{CH3Cl} + \\ce{HCl}\\)",
+      "\\(\\ce{CH4} + 2\\ce{Cl2} \\xrightarrow{\\text{光}} \\ce{CH2Cl2} + 2\\ce{HCl}\\)",
+      "\\(\\ce{CH4} + \\ce{Cl2} \\xrightarrow{\\text{光}} \\ce{CH3} + \\ce{HCl} + \\ce{Cl}\\)",
+      "\\(\\ce{CH4} + \\ce{Cl2} \\xrightarrow{\\text{光}} \\ce{C} + 4\\ce{HCl}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：光照下自由基链式反应第一步生成一氯甲烷和氯化氢。</p><p>B、C、D 非第一步或产物不符。</p>"
+  },
+  {
+    "question": "乙烯与溴水发生加成反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow \\ce{CH3CHBr2}\\)",
+      "\\(\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow \\ce{CH2=CHBr} + \\ce{HBr}\\)",
+      "\\(\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow \\ce{CH2Br-CH2Br}\\)",
+      "\\(2\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow 2\\ce{CH3CH2Br}\\)"
+    ],
+    "correct_index": 2,
+    "explanation": "<p><strong>解析：</strong></p><p>C 正确：π 键断裂，两个 Br 原子分别加到两个碳上，生成 1,2-二溴乙烷。</p><p>A、B、D 产物或计量不符。</p>"
+  },
+  {
+    "question": "乙醇在铜催化下被氧气氧化的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}} \\ce{CH3COOH} + \\ce{H2O}\\)",
+      "\\(2\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}} 2\\ce{CH3CHO} + 2\\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2OH} \\xrightarrow{\\ce{Cu}} \\ce{CH2=CH2} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}} \\ce{CH3CH2O} + \\ce{H2O2}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：伯醇在 \\(\\ce{Cu}\\) 表面部分氧化生成醛，配平正确。</p><p>A 需强氧化剂才能继续到乙酸；C、D 产物不符。</p>"
+  },
+  {
+    "question": "实验室用乙醇与浓硫酸共热制乙烯的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CH2OH} \\xrightarrow{\\text{浓硫酸}} \\ce{CH2=CH2} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2OH} \\xrightarrow[170^{\\circ}\\mathrm{C}]{\\text{浓硫酸}} \\ce{CH2=CH2\\uparrow} + \\ce{H2O}\\)",
+      "\\(2\\ce{CH3CH2OH} \\xrightarrow[140^{\\circ}\\mathrm{C}]{\\text{浓硫酸}} \\ce{CH3CH2OCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2OH} \\xrightarrow{\\Delta} \\ce{CH2=CH2} + \\ce{H2}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：浓硫酸作脱水剂并控温 170 °C，生成乙烯与水，配平完整。</p><p>A 缺少温度条件；C 140 °C 生成乙醚；D 脱水剂为浓硫酸。</p>"
+  },
+  {
+    "question": "苯与液溴在 FeBr₃ 催化下反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H6} + \\ce{Br2} \\xrightarrow{\\text{光照}} \\ce{C6H5Br} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H6} + \\ce{Br2} \\xrightarrow{\\ce{FeBr3}} \\ce{C6H5Br} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H6} + 3\\ce{Br2} \\xrightarrow{\\ce{FeBr3}} \\ce{C6H6Br6}\\)",
+      "\\(\\ce{C6H6} + \\ce{Br2} \\rightarrow \\ce{C6H4Br2} + \\ce{H2}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：\\(\\ce{FeBr3}\\) 催化苯环亲电取代，生成溴苯与 \\(\\ce{HBr}\\)。</p><p>A 光照引发侧链取代；C、D 产物不符。</p>"
+  },
+  {
+    "question": "高炉炼铁主要还原反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{Fe2O3} + \\ce{C} \\xrightarrow{\\text{高温}} 2\\ce{Fe} + \\ce{CO2}\\)",
+      "\\(\\ce{Fe2O3} + 3\\ce{CO} \\xrightarrow{\\text{高温}} 2\\ce{Fe} + 3\\ce{CO2}\\)",
+      "\\(\\ce{Fe3O4} + 2\\ce{CO} \\xrightarrow{\\text{高温}} 3\\ce{Fe} + 2\\ce{CO2}\\)",
+      "\\(\\ce{FeO} + \\ce{CO} \\xrightarrow{\\text{高温}} \\ce{Fe} + \\ce{CO2}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：CO 逐步还原赤铁矿，配平与能量利用最优。</p><p>A、C、D 产物或计量不符。</p>"
+  },
+  {
+    "question": "三价铁离子与硫氰酸钾溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{Fe^{3+} + SCN^- \\rightarrow Fe(SCN)^{2+}}\\)",
+      "\\(\\ce{Fe^{3+} + 3SCN^- \\rightarrow Fe(SCN)3}\\)（红色）",
+      "\\(\\ce{Fe^{3+} + 3SCN^- \\rightarrow Fe(SCN)3 v}\\)",
+      "\\(\\ce{Fe^{3+} + SCN^- \\rightarrow Fe^{2+} + SCN}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：形成血红色络合物 \\(\\ce{Fe(SCN)3}\\)，配位数 3，灵敏度高。</p><p>A 仅单配位；C 不应沉淀；D 无氧化还原。</p>"
+  },
+  {
+    "question": "铝与氢氧化钠溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{Al} + \\ce{OH^-} \\rightarrow \\ce{AlO2^-} + \\ce{H2 ^}\\)",
+      "\\(\\ce{2Al} + 2\\ce{OH^-} + 2\\ce{H2O} \\rightarrow 2\\ce{AlO2^-} + 3\\ce{H2 ^}\\)",
+      "\\(\\ce{2Al} + 2\\ce{NaOH} \\rightarrow 2\\ce{NaAlO2} + \\ce{H2 ^}\\)",
+      "\\(\\ce{Al} + 3\\ce{OH^-} \\rightarrow \\ce{Al(OH)3 v}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：\\(\\ce{Al}\\) 被 \\(\\ce{OH^-}\\)/\\(\\ce{H2O}\\) 氧化生成 \\(\\ce{AlO2^-}\\) 和 \\(\\ce{H2}\\)。</p><p>A、C 未配平；D 产物不符。</p>"
+  },
+  {
+    "question": "乙酸乙酯制备的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\rightarrow \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\xrightleftharpoons[\\Delta]{\\text{浓H2SO4}} \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COONa} + \\ce{CH3CH2Br} \\rightarrow \\ce{CH3COOCH2CH3} + \\ce{NaBr}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3OH} \\rightarrow \\ce{CH3COOCH3} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：酯化反应需浓硫酸作催化剂与脱水剂，可逆符号体现平衡。</p><p>A 缺催化剂；C 非常规制备；D 生成乙酸甲酯。</p>"
+  },
+  {
+    "question": "铜与浓硝酸反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{Cu(NO3)2} + \\ce{H2 ^}\\)",
+      "\\(\\ce{Cu} + 4\\ce{HNO3(\\text{浓})} \\rightarrow \\ce{Cu(NO3)2} + 2\\ce{NO2 ^} + 2\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 4\\ce{HNO3} \\rightarrow \\ce{Cu(NO3)2} + 2\\ce{NO ^} + 2\\ce{H2O}\\)",
+      "\\(3\\ce{Cu} + 8\\ce{HNO3(\\text{浓})} \\rightarrow 3\\ce{Cu(NO3)2} + 2\\ce{NO ^} + 4\\ce{H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：浓硝酸将 Cu 氧化为 Cu²⁺，自身被还原为 NO₂。</p><p>A 无 NO₂；C、D 对应稀硝酸。</p>"
+  },
+  {
+    "question": "碳酸氢钠受热分解的方程式正确的是：",
+    "options": [
+      "\\(\\ce{2NaHCO3} \\xrightarrow{\\Delta} \\ce{Na2CO3} + \\ce{H2O} + \\ce{CO2 ^}\\)",
+      "\\(\\ce{NaHCO3} \\xrightarrow{\\Delta} \\ce{NaOH} + \\ce{CO2 ^}\\)",
+      "\\(2\\ce{NaHCO3} \\xrightarrow{\\Delta} 2\\ce{NaOH} + 2\\ce{CO2 ^}\\)",
+      "\\(\\ce{NaHCO3} \\xrightarrow{\\Delta} \\ce{Na2CO3} + \\ce{CO2 ^}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：270 °C 分解，气体符号↑。</p><p>B、C、D 产物或配平不符。</p>"
+  },
+  {
+    "question": "氨气催化氧化的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{4NH3} + 5\\ce{O2} \\xrightarrow{\\ce{Pt}, 850^{\\circ}\\text{C}} 4\\ce{NO} + 6\\ce{H2O}\\)",
+      "\\(\\ce{4NH3} + 3\\ce{O2} \\xrightarrow{\\ce{Pt}} 2\\ce{N2} + 6\\ce{H2O}\\)",
+      "\\(2\\ce{NH3} + \\ce{O2} \\xrightarrow{\\ce{Pt}} 2\\ce{NO2} + 3\\ce{H2}\\)",
+      "\\(2\\ce{NH3} + \\ce{O2} \\rightarrow \\ce{N2O} + 3\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：工业接触法制硝酸第一步。</p><p>B 缺氧生成 N₂；C、D 产物不符。</p>"
+  },
+  {
+    "question": "镁条在二氧化碳中燃烧的方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{2MgO} + \\ce{C}\\)",
+      "\\(\\ce{Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{MgO} + \\ce{CO}\\)",
+      "\\(\\ce{Mg} + \\ce{CO2} \\xrightarrow{\\text{点燃}} \\ce{MgCO3}\\)",
+      "\\(2\\ce{Mg} + \\ce{CO2} \\rightarrow \\ce{2MgO} + \\ce{CO2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：2 Mg 还原 CO₂，生成 MgO 和 C。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "氢氧化亚铁被空气中氧气氧化的方程式正确的是：",
+    "options": [
+      "\\(\\ce{4Fe(OH)2} + \\ce{O2} + \\ce{2H2O} \\rightarrow \\ce{4Fe(OH)3}\\)",
+      "\\(\\ce{4Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{4FeO} + \\ce{2H2O}\\)",
+      "\\(\\ce{2Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{2Fe2O3} + \\ce{4H2O}\\)",
+      "\\(\\ce{Fe(OH)2} + \\ce{O2} \\rightarrow \\ce{Fe3O4} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氢氧化亚铁逐步被氧化为红褐色的氢氧化铁，需水参与。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "二氧化锰与浓盐酸共热的方程式正确的是：",
+    "options": [
+      "\\(\\ce{MnO2} + 4\\ce{HCl(\\text{浓})} \\xrightarrow{\\Delta} \\ce{MnCl2} + \\ce{Cl2\\uparrow} + 2\\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\xrightarrow{\\Delta} \\ce{MnCl2} + \\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\rightarrow \\ce{MnO} + \\ce{Cl2\\uparrow} + \\ce{H2O}\\)",
+      "\\(\\ce{MnO2} + 2\\ce{HCl} \\rightarrow \\ce{MnCl2} + \\ce{H2\\uparrow} + \\ce{O2\\uparrow}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{MnO2}\\) 将浓盐酸氧化生成 \\(\\ce{Cl2}\\)。</p><p>B 缺氧化产物；C、D 产物不符。</p>"
+  },
+  {
+    "question": "硅酸钠溶液中通入足量 \\(\\ce{CO2}\\) 的方程式正确的是：",
+    "options": [
+      "\\(\\ce{Na2SiO3} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{Na2CO3} + \\ce{H2SiO3\\downarrow}\\)",
+      "\\(\\ce{Na2SiO3} + 2\\ce{CO2} + 2\\ce{H2O} \\rightarrow 2\\ce{NaHCO3} + \\ce{H2SiO3\\downarrow}\\)",
+      "\\(\\ce{Na2SiO3} + \\ce{CO2} \\rightarrow \\ce{Na2CO3} + \\ce{SiO2}\\)",
+      "\\(\\ce{Na2SiO3} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{NaHCO3} + \\ce{NaHSiO3}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：碳酸酸性强于硅酸，置换出硅酸凝胶沉淀。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "电解饱和食盐水的化学方程式正确的是：",
+    "options": [
+      "\\(2\\ce{NaCl} + 2\\ce{H2O} \\xrightarrow{\\text{电解}} 2\\ce{NaOH} + \\ce{H2\\uparrow} + \\ce{Cl2\\uparrow}\\)",
+      "\\(\\ce{NaCl} + \\ce{H2O} \\xrightarrow{\\text{电解}} \\ce{NaOH} + \\ce{HCl}\\)",
+      "\\(2\\ce{NaCl} \\xrightarrow{\\text{电解}} 2\\ce{Na} + \\ce{Cl2\\uparrow}\\)",
+      "\\(2\\ce{H2O} \\xrightarrow{\\text{电解}} 2\\ce{H2\\uparrow} + \\ce{O2\\uparrow}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：隔膜电解槽中，\\(\\ce{Cl^-}\\) 在阳极氧化为 \\(\\ce{Cl2}\\)，\\(\\ce{H2O}\\) 在阴极还原为 \\(\\ce{H2}\\) 和 \\(\\ce{OH^-}\\)，生成 \\(\\ce{NaOH}\\)。</p><p>B 无 \\(\\ce{HCl}\\)；C 水溶液中 \\(\\ce{Na^+}\\) 不会被还原为金属钠；D 忽略了 \\(\\ce{Cl^-}\\) 放电。</p>"
+  },
+  {
+    "question": "铜与稀硝酸反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{Cu(NO3)2} + \\ce{H2\\uparrow}\\)",
+      "\\(3\\ce{Cu} + 8\\ce{HNO3(\\text{稀})} \\rightarrow 3\\ce{Cu(NO3)2} + 2\\ce{NO\\uparrow} + 4\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 4\\ce{HNO3(\\text{稀})} \\rightarrow \\ce{Cu(NO3)2} + 2\\ce{NO2\\uparrow} + 2\\ce{H2O}\\)",
+      "\\(\\ce{Cu} + 2\\ce{HNO3} \\rightarrow \\ce{CuO} + 2\\ce{NO} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>B 正确：稀硝酸还原产物为 \\(\\ce{NO}\\)，配平完整。</p><p>A 无 \\(\\ce{NO}\\)；C 为浓硝酸；D 无 \\(\\ce{Cu(NO3)2}\\)。</p>"
+  },
+  {
+    "question": "硫酸铜晶体加热失水的方程式正确的是：",
+    "options": [
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{\\Delta} \\ce{CuSO4} + 5\\ce{H2O\\uparrow}\\)",
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{\\Delta} \\ce{CuO} + \\ce{SO3} + 5\\ce{H2O\\uparrow}\\)",
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{100^{\\circ}\\mathrm{C}} \\ce{CuSO4 \\cdot 3H2O} + 2\\ce{H2O\\uparrow}\\)",
+      "\\(\\ce{CuSO4 \\cdot 5H2O} \\xrightarrow{250^{\\circ}\\mathrm{C}} \\ce{CuSO4} + 5\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：>200 °C 五水硫酸铜完全失水变为白色无水硫酸铜。</p><p>B、C、D 温度或产物不符。</p>"
+  },
+  {
+    "question": "氢气还原氧化铜的方程式正确的是：",
+    "options": [
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu} + \\ce{H2O}\\)",
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu} + \\ce{H2\\uparrow}\\)",
+      "\\(\\ce{H2} + 2\\ce{CuO} \\xrightarrow{\\Delta} \\ce{Cu2O} + \\ce{H2O}\\)",
+      "\\(\\ce{H2} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{CuOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氢气在加热条件下将 \\(\\ce{CuO}\\) 还原为金属铜并生成水，颜色由黑变红。</p><p>B 产物为水，不是氢气；C、D 产物不符。</p>"
+  },
+  {
+    "question": "碳酸根离子检验的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{Ca^{2+} + CO3^{2-} \\rightarrow CaCO3 v}\\)",
+      "\\(\\ce{Ca^{2+} + CO3^{2-} \\rightarrow CaCO3}\\)",
+      "\\(\\ce{Ca^{2+} + CO3^{2-} \\rightarrow CaCO3 ^}\\)",
+      "\\(\\ce{Ca^{2+} + CO3^{2-} \\rightarrow CaC2O4 v}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{Ca^{2+}}\\) 与 \\(\\ce{CO3^{2-}}\\) 生成白色 \\(\\ce{CaCO3}\\) 沉淀。</p><p>B 未标沉淀；C、D 沉淀符号或产物错误。</p>"
+  },
+  {
+    "question": "钠在空气中燃烧的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Na} + \\ce{O2} \\rightarrow[\\text{点燃}] \\ce{Na2O2}\\)",
+      "\\(\\ce{4Na} + \\ce{O2} \\rightarrow[\\text{点燃}] 2\\ce{Na2O}\\)",
+      "\\(\\ce{Na} + \\ce{O2} \\rightarrow[\\text{点燃}] \\ce{NaO}\\)",
+      "\\(\\ce{2Na} + \\ce{O2} \\rightarrow[\\text{点燃}] \\ce{Na2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：钠燃烧生成淡黄色 \\(\\ce{Na2O2}\\)。</p><p>B、C、D 产物不符。</p>"
+  },
+  {
+    "question": "过氧化钠与水反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{2Na2O2} + 2\\ce{H2O} \\rightarrow 4\\ce{NaOH} + \\ce{O2 ^}\\)",
+      "\\(\\ce{Na2O2} + \\ce{H2O} \\rightarrow \\ce{NaOH} + \\ce{O2 ^}\\)",
+      "\\(\\ce{2Na2O2} + \\ce{H2O} \\rightarrow 2\\ce{NaOH} + \\ce{O2 ^}\\)",
+      "\\(\\ce{Na2O2} + 2\\ce{H2O} \\rightarrow 2\\ce{NaOH} + \\ce{H2O2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：配平后 2 \\(\\ce{Na2O2}\\) 生成 1 \\(\\ce{O2}\\)。</p><p>B、C、D 配平或产物不符。</p>"
+  },
+  {
+    "question": "氧化铝与氢氧化钠溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\ce{Al2O3} + 2\\ce{OH^-} \\rightarrow 2\\ce{AlO2^-} + \\ce{H2O}\\)",
+      "\\(\\ce{Al2O3} + 6\\ce{OH^-} \\rightarrow 2\\ce{Al(OH)3 v} + 3\\ce{H2O}\\)",
+      "\\(\\ce{Al2O3} + 3\\ce{H2O} \\rightarrow 2\\ce{Al(OH)3 v}\\)",
+      "\\(\\ce{Al2O3} + 4\\ce{OH^-} \\rightarrow 2\\ce{AlO2^-} + 2\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：两性氧化物与碱反应生成 \\(\\ce{AlO2^-}\\)。</p><pB、C、D 配平或产物不符。</p>"
+  },
+  {
+    "question": "氢氧化铝与盐酸反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{Al(OH)3} + 3\\ce{HCl} \\rightarrow \\ce{AlCl3} + 3\\ce{H2O}\\)",
+      "\\(\\ce{Al(OH)3} + \\ce{HCl} \\rightarrow \\ce{AlCl3} + \\ce{H2O}\\)",
+      "\\(\\ce{Al(OH)3} + 2\\ce{HCl} \\rightarrow \\ce{AlCl2} + 2\\ce{H2O}\\)",
+      "\\(\\ce{Al(OH)3} + \\ce{HCl} \\rightarrow \\ce{Al(OH)2Cl} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{Al(OH)3}\\) 与酸反应生成 \\(\\ce{AlCl3}\\)。</p><pB、C、D 配平或产物不符。</p>"
+  },
+  {
+    "question": "铁片与硫酸铜溶液反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{Fe} + \\ce{CuSO4} \\rightarrow \\ce{FeSO4} + \\ce{Cu}\\)",
+      "\\(\\ce{Fe} + \\ce{CuSO4} \\rightarrow \\ce{Fe2(SO4)3} + \\ce{Cu}\\)",
+      "\\(2\\ce{Fe} + 3\\ce{CuSO4} \\rightarrow \\ce{Fe2(SO4)3} + 3\\ce{Cu}\\)",
+      "\\(\\ce{Fe} + \\ce{CuSO4} \\rightarrow \\ce{FeSO4} + \\ce{CuO}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：置换反应生成 \\(\\ce{FeSO4}\\) 和 \\(\\ce{Cu}\\)。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙烯与氢气加成反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH2=CH2} + \\ce{H2} \\xrightarrow{\\text{Ni}} \\ce{CH3CH3}\\)",
+      "\\(\\ce{CH2=CH2} + \\ce{H2} \\rightarrow \\ce{CH2=CH3}\\)",
+      "\\(\\ce{CH2=CH2} + 2\\ce{H2} \\rightarrow \\ce{CH3CH3}\\)",
+      "\\(\\ce{CH2=CH2} + \\ce{H2} \\rightarrow \\ce{CH2=CH2}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：\\(\\ce{CH2=CH2}\\) 与 \\(\\ce{H2}\\) 在 Ni 催化下加成生成乙烷。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "甲烷燃烧反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH4} + 2\\ce{O2} \\rightarrow \\ce{CO2} + 2\\ce{H2O}\\)",
+      "\\(\\ce{CH4} + \\ce{O2} \\rightarrow \\ce{CO} + 2\\ce{H2O}\\)",
+      "\\(\\ce{CH4} + 2\\ce{O2} \\rightarrow \\ce{CO} + 2\\ce{H2}\\)",
+      "\\(\\ce{CH4} + 3\\ce{O2} \\rightarrow \\ce{CO2} + 2\\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：完全燃烧生成 \\(\\ce{CO2}\\) 和 \\(\\ce{H2O}\\)。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙炔与水加成制乙醛的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH#CH} + \\ce{H2O} \\xrightarrow{\\ce{HgSO4}, \\ce{H2SO4}} \\ce{CH3CHO}\\)",
+      "\\(\\ce{CH#CH} + \\ce{H2O} \\rightarrow \\ce{CH2=CHOH}\\)",
+      "\\(\\ce{CH#CH} + \\ce{H2O} \\rightarrow \\ce{CH3CH2OH}\\)",
+      "\\(\\ce{CH#CH} + 2\\ce{H2O} \\rightarrow \\ce{CH3CH2OH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：Hg²⁺ 催化下乙炔水合生成乙醛。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "苯酚与溴水反应的方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H5OH} + 3\\ce{Br2} \\rightarrow \\ce{C6H2Br3OH\\downarrow} + 3\\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + \\ce{Br2} \\rightarrow \\ce{C6H4BrOH\\downarrow} + \\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + 2\\ce{Br2} \\rightarrow \\ce{C6H3Br2OH\\downarrow} + 2\\ce{HBr}\\)",
+      "\\(\\ce{C6H5OH} + \\ce{Br2} \\rightarrow \\ce{C6H5Br} + \\ce{HOBr}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：生成 2,4,6-三溴苯酚白色沉淀。</p><pB、C、D 取代不足或产物不符。</p>"
+  },
+  {
+    "question": "乙酸与乙醇酯化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\xrightleftharpoons[\\Delta]{\\text{浓H2SO4}} \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\rightarrow \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{2CH3COOH} + \\ce{CH3CH2OH} \\xrightleftharpoons[\\Delta]{\\text{浓H2SO4}} \\ce{(CH3COO)2CH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3OH} \\xrightleftharpoons[\\Delta]{\\text{浓H2SO4}} \\ce{CH3COOCH3} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：酯化反应需浓硫酸作催化剂与脱水剂，可逆符号体现平衡。</p><pB、C、D 产物不符。</p>"
+  },
+  {
+    "question": "乙烯与溴水发生加成反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow \\ce{CH2BrCH2Br}\\)",
+      "\\(\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow \\ce{CH3CHBr2}\\)",
+      "\\(\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow \\ce{CH2=CHBr} + \\ce{HBr}\\)",
+      "\\(2\\ce{CH2=CH2} + \\ce{Br2} \\rightarrow 2\\ce{CH3CH2Br}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：生成 1,2-二溴乙烷。</p><pB、C、D 产物或计量不符。</p>"
+  },
+  {
+    "question": "乙醇催化氧化制乙醛的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}/\\Delta} \\ce{CH3CHO} + \\ce{H2O}\\)",
+      "\\(2\\ce{CH3CH2OH} + \\ce{O2} \\xrightarrow{\\ce{Cu}/\\Delta} 2\\ce{CH3CHO} + 2\\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2OH} \\xrightarrow[\\Delta]{\\ce{Cu}} \\ce{CH3CHO} + \\ce{H2}\\)",
+      "\\(\\ce{CH3CH2OH} + \\ce{CuO} \\xrightarrow{\\Delta} \\ce{CH3CHO} + \\ce{Cu} + \\ce{H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未配平（氧原子数不守恒）。</p><p>B 正确：2 mol 乙醇脱氢需 1 mol O₂，生成 2 mol 乙醛和 2 mol 水。</p><p>C 错误：脱氢需氧参与，不生成 H₂。</p><p>D 错误：工业上用 O₂ 和 Cu 催化剂，非 CuO 氧化剂。</p>"
+  },
+  {
+    "question": "下列离子方程式书写正确的是：",
+    "options": [
+      "\\(\\mathrm{CO}_3^{2-} + 2\\mathrm{H}^+ \\rightarrow \\mathrm{CO}_2\\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{HCO}_3^- + \\mathrm{H}^+ \\rightarrow \\mathrm{CO}_2\\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CaCO}_3 + 2\\mathrm{H}^+ \\rightarrow \\mathrm{Ca}^{2+} + \\mathrm{CO}_2\\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CO}_3^{2-} + \\mathrm{H}^+ \\rightarrow \\mathrm{HCO}_3^-\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：碳酸根与足量酸反应生成 CO₂ 和水，配平完整。</p><p>B 正确但不符合题干“唯一正确”要求。</p><p>C 正确但碳酸钙为固体，需写化学式。</p><p>D 错误：未反应完全。</p>"
+  },
+  {
+    "question": "乙酸与乙醇酯化反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\rightarrow \\ce{CH3COOCH2CH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COOH} + \\ce{CH3CH2OH} \\xrightleftharpoons[\\Delta]{\\text{浓} \\ce{H2SO4}} \\ce{CH3COOC2H5} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3COONa} + \\ce{CH3CH2Br} \\rightarrow \\ce{CH3COOC2H5} + \\ce{NaBr}\\)",
+      "\\(\\ce{CH3C(O)Cl} + \\ce{CH3CH2OH} \\rightarrow \\ce{CH3COOC2H5} + \\ce{HCl}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：缺少催化剂和可逆符号。</p><p>B 正确：浓硫酸催化、加热，反应可逆。</p><p>C 错误：虽可生成酯，但非酯化反应，是取代反应。</p><p>D 错误：酰氯法，非乙酸直接酯化。</p>"
+  },
+  {
+    "question": "苯酚钠溶液中通入二氧化碳的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{C6H5ONa} + \\ce{CO2} \\rightarrow \\ce{C6H5OCOONa}\\)",
+      "\\(\\ce{C6H5ONa} + \\ce{CO2} + \\ce{H2O} \\rightarrow \\ce{C6H5OH} + \\ce{NaHCO3}\\)",
+      "\\(2\\ce{C6H5ONa} + \\ce{CO2} + \\ce{H2O} \\rightarrow 2\\ce{C6H5OH} + \\ce{Na2CO3}\\)",
+      "\\(\\ce{C6H5ONa} + \\ce{CO2} \\rightarrow \\ce{C6H5OH} + \\ce{Na2CO3}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：不生成碳酸苯酯。</p><p>B 正确：碳酸酸性强于苯酚弱于HCO₃⁻，故生成苯酚和NaHCO₃。</p><p>C 错误：产物应为NaHCO₃而非Na₂CO₃。</p><p>D 错误：未配平且产物错误。</p>"
+  },
+  {
+    "question": "乙醛发生银镜反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CHO} + 2\\ce{Ag(NH3)2OH} \\xrightarrow{\\Delta} \\ce{CH3COONH4} + 2\\ce{Ag} \\downarrow + 2\\ce{NH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CHO} + 2\\ce{Ag(NH3)2^+} + 2\\ce{OH^-} \\xrightarrow{\\Delta} \\ce{CH3COO^-} + 2\\ce{Ag} \\downarrow + 3\\ce{NH3} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CHO} + \\ce{Ag2O} \\rightarrow \\ce{CH3COOH} + 2\\ce{Ag} \\downarrow\\)",
+      "\\(\\ce{CH3CHO} + 2\\ce{Ag^+} + \\ce{H2O} \\rightarrow \\ce{CH3COOH} + 2\\ce{Ag} \\downarrow + 2\\ce{H^+}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：碱不足（OH⁻未参与反应）。</p><p>B 正确：银氨络离子在碱性条件下氧化醛基，生成羧酸根、银、氨和水。</p><p>C 错误：银镜反应用银氨溶液，非Ag₂O。</p><p>D 错误：酸性条件下不生成银镜。</p>"
+  },
+  {
+    "question": "溴乙烷发生消去反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\ce{CH3CH2Br} + \\ce{NaOH} \\xrightarrow{\\text{水}} \\ce{CH2=CH2} \\uparrow + \\ce{NaBr} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2Br} + \\ce{NaOH} \\xrightarrow{\\text{醇}} \\ce{CH2=CH2} \\uparrow + \\ce{NaBr} + \\ce{H2O}\\)",
+      "\\(\\ce{CH3CH2Br} \\xrightarrow{\\Delta} \\ce{CH2=CH2} + \\ce{HBr}\\)",
+      "\\(2\\ce{CH3CH2Br} + 2\\ce{Na} \\rightarrow \\ce{CH3CH2CH2CH3} + 2\\ce{NaBr}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：水溶液条件发生取代生成乙醇。</p><p>B 正确：NaOH醇溶液、加热下发生β-消去生成乙烯。</p><p>C 错误：需强碱催化。</p><p>D 错误：武兹(Wurtz)偶联反应，生成丁烷。</p>"
+  },
+  {
+    "question": "苯与浓硝酸、浓硫酸混酸反应的化学方程式（硝化反应）正确的是：",
+    "options": [
+      "\\(\\ce{C6H6} + \\ce{HNO3} \\xrightarrow{\\text{浓} \\ce{H2SO4}} \\ce{C6H5NO2} + \\ce{H2O}\\)",
+      "\\(\\ce{C6H6} + \\ce{HONO2} \\xrightarrow{\\text{浓} \\ce{H2SO4}} \\ce{C6H5NO2} + \\ce{H2O}\\)",
+      "\\(\\ce{C6H6} + \\ce{NO2} \\rightarrow \\ce{C6H5NO2} + \\ce{H}\\)",
+      "\\(\\ce{C6H6} + 3\\ce{HNO3} \\xrightarrow{\\text{浓} \\ce{H2SO4}} \\ce{C6H3(NO2)3} + 3\\ce{H2O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：浓硝酸常用 HONO₂ 表示其硝化活性。</p><p>B 正确：HONO₂ 表示硝酸，产物为硝基苯和水。</p><p>C 错误：反应机理错误。</p><p>D 错误：苯通常只发生单取代，条件剧烈才三硝化。</p>"
+  },
+  {
+    "question": "下列关于硫酸根离子检验的方程式，书写正确的是：",
+    "options": [
+      "\\(\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{BaSO}_4 \\downarrow + 2\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{BaSO}_3 + 2\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{Ba} + \\mathrm{SO}_4 + 2\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{BaSO}_4 \\uparrow + 2\\mathrm{NaCl}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：生成难溶于水的白色沉淀 BaSO₄，且离子方程式符合电荷守恒与质量守恒。</p><p>B 错误：产物应为硫酸钡 BaSO₄，而非亚硫酸钡 BaSO₃。</p><p>C 错误：反应物中无单质 Ba 和 SO₄ 生成，违背物质守恒。</p><p>D 错误：BaSO₄ 为沉淀，应使用“↓”而非“↑”。</p>"
+  },
+  {
+    "question": "实验室制取氨气的化学方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{NH}_4\\mathrm{Cl} \\xrightarrow{\\Delta} \\mathrm{NH}_3 \\uparrow + \\mathrm{HCl} \\uparrow\\)",
+      "\\(2\\mathrm{NH}_4\\mathrm{Cl} + \\mathrm{Ca(OH)}_2 \\xrightarrow{\\Delta} \\mathrm{CaCl}_2 + 2\\mathrm{H}_2\\mathrm{O} + 2\\mathrm{NH}_3 \\uparrow\\)",
+      "\\(\\mathrm{NH}_4\\mathrm{NO}_3 + \\mathrm{NaOH} \\rightarrow \\mathrm{NaNO}_3 + \\mathrm{NH}_3 \\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{N}_2 + 3\\mathrm{H}_2 \\xrightarrow{\\text{高温高压}} 2\\mathrm{NH}_3\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：氯化铵单独受热分解生成的 NH₃ 与 HCl 会在冷却时重新结合，无法收集氨气。</p><p>B 正确：实验室采用氯化铵与氢氧化钙共热，NH₃ 逸出而 CaCl₂、H₂O 留在体系中，反应可逆性小。</p><p>C 错误：硝酸铵遇碱易发生副反应并可能爆炸，实验室不采用。</p><p>D 错误：哈伯法虽制氨，但条件苛刻，属于工业流程。</p>"
+  },
+  {
+    "question": "氯气与冷氢氧化钠溶液反应的方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Cl}_2 + \\mathrm{NaOH} \\rightarrow \\mathrm{NaCl} + \\mathrm{HClO}\\)",
+      "\\(\\mathrm{Cl}_2 + 2\\mathrm{NaOH} \\rightarrow \\mathrm{NaCl} + \\mathrm{NaClO} + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Cl}_2 + 2\\mathrm{NaOH} \\rightarrow 2\\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}_2\\)",
+      "\\(2\\mathrm{Cl}_2 + 2\\mathrm{NaOH} \\rightarrow 2\\mathrm{NaCl} + \\mathrm{Cl}_2\\mathrm{O} + \\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未配平，且产物应为 NaCl 与 NaClO。</p><p>B 正确：Cl₂ 发生歧化反应，生成氯化钠和次氯酸钠，符合氧化还原守恒。</p><p>C 错误：不会产生过氧化氢。</p><p>D 错误：Cl₂O 在冷碱中难以生成。</p>"
+  },
+  {
+    "question": "铁在高温下与水蒸气反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Fe} + \\mathrm{H}_2\\mathrm{O}(g) \\rightarrow \\mathrm{FeO} + \\mathrm{H}_2\\uparrow\\)",
+      "\\(3\\mathrm{Fe} + 4\\mathrm{H}_2\\mathrm{O}(g) \\xrightarrow{\\text{高温}} \\mathrm{Fe}_3\\mathrm{O}_4 + 4\\mathrm{H}_2\\uparrow\\)",
+      "\\(2\\mathrm{Fe} + 3\\mathrm{H}_2\\mathrm{O}(g) \\rightarrow \\mathrm{Fe}_2\\mathrm{O}_3 + 3\\mathrm{H}_2\\uparrow\\)",
+      "\\(4\\mathrm{Fe} + 3\\mathrm{H}_2\\mathrm{O}(g) \\rightarrow 2\\mathrm{Fe}_2\\mathrm{O}_3 + 3\\mathrm{H}_2\\uparrow\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：高温下生成的是 Fe₃O₄，而非 FeO。</p><p>B 正确：反应产物为四氧化三铁与氢气，配平完整。</p><p>C 错误：Fe₂O₃ 在高温水蒸气中并非主要产物。</p><p>D 错误：配平系数与实验事实不符。</p>"
+  },
+  {
+    "question": "铝热反应（以氧化铁为例）的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Fe}_2\\mathrm{O}_3 + \\mathrm{Al} \\xrightarrow{\\text{高温}} \\mathrm{Fe} + \\mathrm{Al}_2\\mathrm{O}_3\\)",
+      "\\(\\mathrm{Fe}_2\\mathrm{O}_3 + 2\\mathrm{Al} \\xrightarrow{\\text{高温}} 2\\mathrm{Fe} + \\mathrm{Al}_2\\mathrm{O}_3\\)",
+      "\\(\\mathrm{Fe}_2\\mathrm{O}_3 + 3\\mathrm{Al} \\xrightarrow{\\text{高温}} 2\\mathrm{Fe} + 3\\mathrm{AlO}\\)",
+      "\\(\\mathrm{Fe}_2\\mathrm{O}_3 + \\mathrm{Al} \\xrightarrow{\\text{高温}} \\mathrm{FeO} + \\mathrm{Al}_2\\mathrm{O}_3\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未配平，铝系数应为 2。</p><p>B 正确：质量守恒、电子守恒，且反应放热剧烈。</p><p>C 错误：AlO 不是氧化铝的稳定化学式。</p><p>D 错误：产物应为 Fe 而非 FeO。</p>"
+  },
+  {
+    "question": "乙酸与碳酸钙发生反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CaCO}_3 \\rightarrow \\mathrm{CH}_3\\mathrm{COOCa} + \\mathrm{H}_2\\mathrm{O} + \\mathrm{CO}_2\\uparrow\\)",
+      "\\(2\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CaCO}_3 \\rightarrow (\\mathrm{CH}_3\\mathrm{COO})_2\\mathrm{Ca} + \\mathrm{H}_2\\mathrm{O} + \\mathrm{CO}_2\\uparrow\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CaCO}_3 \\rightarrow \\mathrm{Ca(CH}_3\\mathrm{COO)}_2 + \\mathrm{H}_2\\mathrm{CO}_3\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CaCO}_3 \\rightarrow \\mathrm{CH}_3\\mathrm{COO} \\cdot \\mathrm{Ca} + \\mathrm{H}_2\\mathrm{O} + \\mathrm{CO}_2\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：乙酸钙化学式书写不规范。</p><p>B 正确：2 mol 乙酸提供 2 mol H⁺ 与 CO₃²⁻ 反应，产物为可溶性乙酸钙、水和二氧化碳。</p><p>C 错误：碳酸立即分解为 CO₂ 与 H₂O，不应写 H₂CO₃。</p><p>D 错误：\"·\" 表示方法不规范。</p>"
+  },
+  {
+    "question": "甲烷在光照条件下与氯气发生取代反应第一步的化学方程式为：",
+    "options": [
+      "\\(\\mathrm{CH}_4 + \\mathrm{Cl}_2 \\xrightarrow{\\text{光}} \\mathrm{CH}_3\\mathrm{Cl} + \\mathrm{HCl}\\)",
+      "\\(\\mathrm{CH}_4 + 2\\mathrm{Cl}_2 \\xrightarrow{\\text{光}} \\mathrm{CH}_2\\mathrm{Cl}_2 + 2\\mathrm{HCl}\\)",
+      "\\(\\mathrm{CH}_4 + \\mathrm{Cl}_2 \\xrightarrow{\\text{光}} \\mathrm{CH}_3 + \\mathrm{HCl} + \\mathrm{Cl}\\)",
+      "\\(\\mathrm{CH}_4 + \\mathrm{Cl}_2 \\xrightarrow{\\text{光}} \\mathrm{C} + 4\\mathrm{HCl}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：光照下自由基链式反应第一步生成一氯甲烷和氯化氢，符合实验事实。</p><p>B 错误：此为多步取代后的产物，非第一步。</p><p>C 错误：自由基不应单独作为产物列出。</p><p>D 错误：完全裂解不符合甲烷氯代机理。</p>"
+  },
+  {
+    "question": "乙烯与溴水发生加成反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{Br}_2 \\rightarrow \\mathrm{CH}_3\\mathrm{CHBr}_2\\)",
+      "\\(\\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{Br}_2 \\rightarrow \\mathrm{CH}_2=\\mathrm{CHBr} + \\mathrm{HBr}\\)",
+      "\\(\\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{Br}_2 \\rightarrow \\mathrm{CH}_2\\mathrm{Br}-\\mathrm{CH}_2\\mathrm{Br}\\)",
+      "\\(2\\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{Br}_2 \\rightarrow 2\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{Br}\\)"
+    ],
+    "correct_index": 2,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：产物应为邻二溴乙烷，不是同碳二溴。</p><p>B 错误：发生加成而非取代，无双键残留。</p><p>C 正确：π 键断裂，两个 Br 原子分别加到两个碳上，生成 1,2-二溴乙烷。</p><p>D 错误：计量与产物均错误。</p>"
+  },
+  {
+    "question": "乙醇在铜催化下被氧气氧化的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} + \\mathrm{O}_2 \\xrightarrow{\\mathrm{Cu}} \\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(2\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} + \\mathrm{O}_2 \\xrightarrow{\\mathrm{Cu}} 2\\mathrm{CH}_3\\mathrm{CHO} + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow{\\mathrm{Cu}} \\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} + \\mathrm{O}_2 \\xrightarrow{\\mathrm{Cu}} \\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{O} + \\mathrm{H}_2\\mathrm{O}_2\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：催化氧化只到乙醛，需强氧化剂才能继续到乙酸。</p><p>B 正确：伯醇在 Cu/Ag 表面部分氧化生成醛，配平正确。</p><p>C 错误：此为脱水反应，需浓硫酸并加热至 170 °C。</p><p>D 错误：产物不存在且过氧化氢不生成。</p>"
+  },
+  {
+    "question": "实验室用乙醇与浓硫酸共热制乙烯的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow{\\text{浓硫酸}} \\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow[170^{\\circ}\\mathrm{C}]{\\text{浓硫酸}} \\mathrm{CH}_2=\\mathrm{CH}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(2\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow[140^{\\circ}\\mathrm{C}]{\\text{浓硫酸}} \\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OCH}_2\\mathrm{CH}_3 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow{\\Delta} \\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{H}_2\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：缺少温度条件，表述不完整。</p><p>B 正确：浓硫酸作脱水剂并控温 170 °C，生成乙烯与水，配平完整。</p><p>C 错误：140 °C 发生分子间脱水生成乙醚。</p><p>D 错误：脱水剂为浓硫酸，非简单加热。</p>"
+  },
+  {
+    "question": "苯与液溴在 FeBr₃ 催化下反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{C}_6\\mathrm{H}_6 + \\mathrm{Br}_2 \\xrightarrow{\\text{光照}} \\mathrm{C}_6\\mathrm{H}_5Br + \\mathrm{HBr}\\)",
+      "\\(\\mathrm{C}_6\\mathrm{H}_6 + \\mathrm{Br}_2 \\xrightarrow{\\mathrm{FeBr}_3} \\mathrm{C}_6\\mathrm{H}_5Br + \\mathrm{HBr}\\)",
+      "\\(\\mathrm{C}_6\\mathrm{H}_6 + 3\\mathrm{Br}_2 \\xrightarrow{\\mathrm{FeBr}_3} \\mathrm{C}_6\\mathrm{H}_6\\mathrm{Br}_6\\)",
+      "\\(\\mathrm{C}_6\\mathrm{H}_6 + \\mathrm{Br}_2 \\rightarrow \\mathrm{C}_6\\mathrm{H}_4\\mathrm{Br}_2 + \\mathrm{H}_2\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：光照条件引发侧链取代，非苯环取代。</p><p>B 正确：FeBr₃ 催化苯环亲电取代，生成溴苯与 HBr。</p><p>C 错误：苯环不易发生多溴加成。</p><p>D 错误：产物与计量均不符合实验事实。</p>"
+  },
+  {
+    "question": "高炉炼铁主要还原反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Fe}_2\\mathrm{O}_3 + \\mathrm{C} \\xrightarrow{\\text{高温}} 2\\mathrm{Fe} + \\mathrm{CO}_2\\)",
+      "\\(\\mathrm{Fe}_2\\mathrm{O}_3 + 3\\mathrm{CO} \\xrightarrow{\\text{高温}} 2\\mathrm{Fe} + 3\\mathrm{CO}_2\\)",
+      "\\(\\mathrm{Fe}_3\\mathrm{O}_4 + 2\\mathrm{CO} \\xrightarrow{\\text{高温}} 3\\mathrm{Fe} + 2\\mathrm{CO}_2\\)",
+      "\\(\\mathrm{FeO} + \\mathrm{CO} \\xrightarrow{\\text{高温}} \\mathrm{Fe} + \\mathrm{CO}_2\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：高炉内主要还原剂是 CO，而非固体 C。</p><p>B 正确：CO 逐步还原赤铁矿，配平与能量利用均最优。</p><p>C 错误：磁铁矿虽可还原，但主体炉料为赤铁矿。</p><p>D 错误：FeO 为中间产物，非主要入炉原料。</p>"
+  },
+  {
+    "question": "三价铁离子与硫氰酸钾溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Fe}^{3+} + \\mathrm{SCN}^- \\rightarrow \\mathrm{Fe(SCN)}^{2+}\\)",
+      "\\(\\mathrm{Fe}^{3+} + 3\\mathrm{SCN}^- \\rightarrow \\mathrm{Fe(SCN)}_3(\\text{红色})\\)",
+      "\\(\\mathrm{Fe}^{3+} + 3\\mathrm{SCN}^- \\rightarrow \\mathrm{Fe(SCN)}_3 \\downarrow\\)",
+      "\\(\\mathrm{Fe}^{3+} + \\mathrm{SCN}^- \\rightarrow \\mathrm{Fe}^{2+} + \\mathrm{SCN}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：只形成单配位络合物，颜色浅，不符合检验要求。</p><p>B 正确：形成血红色络合物 Fe(SCN)₃，配位数 3，灵敏度高。</p><p>C 错误：产物为可溶性络合物，不应出现沉淀符号。</p><p>D 错误：无氧化还原发生，铁价态不变。</p>"
+  },
+  {
+    "question": "铝与氢氧化钠溶液反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Al} + \\mathrm{OH}^- \\rightarrow \\mathrm{AlO}_2^- + \\mathrm{H}_2\\uparrow\\)",
+      "\\(2\\mathrm{Al} + 2\\mathrm{OH}^- + 2\\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{AlO}_2^- + 3\\mathrm{H}_2\\uparrow\\)",
+      "\\(2\\mathrm{Al} + 2\\mathrm{NaOH} \\rightarrow 2\\mathrm{NaAlO}_2 + \\mathrm{H}_2\\uparrow\\)",
+      "\\(\\mathrm{Al} + 3\\mathrm{OH}^- \\rightarrow \\mathrm{Al(OH)}_3 \\downarrow\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未配平且缺少水分子参与反应。</p><p>B 正确：Al 被 OH⁻/H₂O 氧化生成 AlO₂⁻ 和 H₂，离子方程式配平完整。</p><p>C 错误：虽配平，但写成化学方程式，与题干“离子方程式”不符。</p><p>D 错误：产物为 AlO₂⁻，而非 Al(OH)₃ 沉淀。</p>"
+  },
+  {
+    "question": "乙酸乙酯制备的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\rightarrow \\mathrm{CH}_3\\mathrm{COOCH}_2\\mathrm{CH}_3 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\overset{\\text{浓硫酸}}{\\underset{\\Delta}{\\rightleftharpoons}} \\mathrm{CH}_3\\mathrm{COOCH}_2\\mathrm{CH}_3 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{COONa} + \\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{Br} \\rightarrow \\mathrm{CH}_3\\mathrm{COOCH}_2\\mathrm{CH}_3 + \\mathrm{NaBr}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{COOH} + \\mathrm{CH}_3\\mathrm{OH} \\rightarrow \\mathrm{CH}_3\\mathrm{COOCH}_3 + \\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：缺少催化剂及可逆符号。</p><p>B 正确：酯化反应需浓硫酸作催化剂与脱水剂，可逆符号体现平衡。</p><p>C 错误：虽为酯化替代路线，但非实验室制备乙酸乙酯的常规方法。</p><p>D 错误：生成物为乙酸甲酯。</p>"
+  },
+  {
+    "question": "铜与浓硝酸反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Cu} + 2\\mathrm{HNO}_3 \\rightarrow \\mathrm{Cu(NO}_3)_2 + \\mathrm{H}_2\\uparrow\\)",
+      "\\(\\mathrm{Cu} + 4\\mathrm{HNO}_3(\\text{浓}) \\rightarrow \\mathrm{Cu(NO}_3)_2 + 2\\mathrm{NO}_2\\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Cu} + 4\\mathrm{HNO}_3 \\rightarrow \\mathrm{Cu(NO}_3)_2 + 2\\mathrm{NO}\\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(3\\mathrm{Cu} + 8\\mathrm{HNO}_3(\\text{浓}) \\rightarrow 3\\mathrm{Cu(NO}_3)_2 + 2\\mathrm{NO}\\uparrow + 4\\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：硝酸为氧化性酸，无 H₂ 放出。</p><p>B 正确：浓硝酸将 Cu 氧化为 Cu²⁺，自身被还原为 NO₂，配平完整。</p><p>C 错误：浓硝酸产物应为 NO₂，不是 NO。</p><p>D 错误：3Cu+8HNO₃ 对应稀硝酸，非浓硝酸。</p>"
+  },
+  {
+    "question": "过氧化钠与二氧化碳反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Na}_2\\mathrm{O}_2 + \\mathrm{CO}_2 \\rightarrow \\mathrm{Na}_2\\mathrm{CO}_3\\)",
+      "\\(2\\mathrm{Na}_2\\mathrm{O}_2 + 2\\mathrm{CO}_2 \\rightarrow 2\\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{O}_2\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{O}_2 + 2\\mathrm{CO}_2 \\rightarrow 2\\mathrm{NaHCO}_3\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{O}_2 + \\mathrm{CO}_2 \\rightarrow \\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{CO}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未体现 O₂ 生成。</p><p>B 正确：Na₂O₂ 既作氧化剂又作还原剂，生成 Na₂CO₃ 并放出 O₂，常用于供氧剂。</p><p>C 错误：NaHCO₃ 不是最终产物。</p><p>D 错误：生成 CO 违背氧化还原守恒。</p>"
+  },
+  {
+    "question": "工业上制取漂白粉的主要反应方程式是：",
+    "options": [
+      "\\(\\mathrm{Cl}_2 + \\mathrm{Ca(OH)}_2 \\rightarrow \\mathrm{CaCl}_2 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(2\\mathrm{Cl}_2 + 2\\mathrm{Ca(OH)}_2 \\rightarrow \\mathrm{CaCl}_2 + \\mathrm{Ca(ClO)}_2 + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Cl}_2 + 2\\mathrm{NaOH} \\rightarrow \\mathrm{NaCl} + \\mathrm{NaClO} + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Ca(ClO)}_2 + \\mathrm{CO}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{CaCO}_3 + 2\\mathrm{HClO}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：缺少次氯酸钙产物。</p><p>B 正确：氯气与消石灰在常温下歧化，生成 CaCl₂ 与 Ca(ClO)₂ 的混合物即为漂白粉。</p><p>C 错误：生成次氯酸钠，用于制漂白液而非漂白粉。</p><p>D 错误：漂白粉在空气中失效的反应，非制备反应。</p>"
+  },
+  {
+    "question": "苯酚与溴水反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{C}_6\\mathrm{H}_5OH + \\mathrm{Br}_2 \\rightarrow \\mathrm{C}_6\\mathrm{H}_4BrOH + \\mathrm{HBr}\\)",
+      "\\(\\mathrm{C}_6\\mathrm{H}_5OH + 3\\mathrm{Br}_2 \\rightarrow \\mathrm{C}_6\\mathrm{H}_2\\mathrm{Br}_3OH + 3\\mathrm{HBr}\\)",
+      "\\(\\mathrm{C}_6\\mathrm{H}_5OH + 2\\mathrm{Br}_2 \\rightarrow \\mathrm{C}_6\\mathrm{H}_3\\mathrm{Br}_2OH + 2\\mathrm{HBr}\\)",
+      "\\(\\mathrm{C}_6\\mathrm{H}_5OH + \\mathrm{Br}_2 \\rightarrow \\mathrm{C}_6\\mathrm{H}_5Br + \\mathrm{HOBr}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：酚羟基为强致活基团，易发生多取代。</p><p>B 正确：苯酚与溴水立即生成 2,4,6-三溴苯酚白色沉淀，反应定量且灵敏。</p><p>C 错误：取代不足。</p><p>D 错误：产物与反应类型均错误。</p>"
+  },
+  {
+    "question": "乙醛银镜反应的离子方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_3\\mathrm{CHO} + \\mathrm{Ag}_2\\mathrm{O} \\rightarrow \\mathrm{CH}_3\\mathrm{COOH} + 2\\mathrm{Ag}\\downarrow\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CHO} + 2[\\mathrm{Ag}(\\mathrm{NH}_3)_2]^+ + 2\\mathrm{OH}^- \\xrightarrow{\\Delta} \\mathrm{CH}_3\\mathrm{COO}^- + 2\\mathrm{Ag}\\downarrow + 3\\mathrm{NH}_3 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CHO} + 2\\mathrm{Ag}^+ + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{CH}_3\\mathrm{COOH} + 2\\mathrm{Ag}\\downarrow + 2\\mathrm{H}^+\\)",
+      "\\(2\\mathrm{CH}_3\\mathrm{CHO} + \\mathrm{O}_2 \\rightarrow 2\\mathrm{CH}_3\\mathrm{COOH}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未使用银氨溶液，且缺乏碱性环境。</p><p>B 正确：银氨络离子在碱性条件下氧化醛基，生成羧酸铵、银镜与氨，符合实验现象。</p><p>C 错误：酸性条件下银离子不形成银镜。</p><p>D 错误：催化氧化非银镜反应。</p>"
+  },
+  {
+    "question": "二氧化硫使品红溶液褪色体现的化学性质是：",
+    "options": [
+      "氧化性",
+      "还原性",
+      "漂白性（化合型）",
+      "酸性"
+    ],
+    "correct_index": 2,
+    "explanation": "<p><strong>解析：</strong></p><p>SO₂ 与品红中的发色团发生加成反应生成无色化合物，该过程可逆，加热后颜色恢复，属于化合型漂白，与氧化性、还原性、酸性无直接关联。</p>"
+  },
+  {
+    "question": "工业上制取粗硅的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{SiO}_2 + \\mathrm{C} \\xrightarrow{\\text{高温}} \\mathrm{Si} + \\mathrm{CO}_2\\)",
+      "\\(\\mathrm{SiO}_2 + 2\\mathrm{C} \\xrightarrow{\\text{高温}} \\mathrm{Si} + 2\\mathrm{CO}\\uparrow\\)",
+      "\\(\\mathrm{Si} + 2\\mathrm{Cl}_2 \\xrightarrow{\\text{高温}} \\mathrm{SiCl}_4\\)",
+      "\\(\\mathrm{SiCl}_4 + 2\\mathrm{H}_2 \\xrightarrow{\\text{高温}} \\mathrm{Si} + 4\\mathrm{HCl}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：生成 CO₂ 需过量氧气，电弧炉内为还原性气氛，主产物为 CO。</p><p>B 正确：石英砂与焦炭在电弧炉内反应生成粗硅与一氧化碳，为工业第一步。</p><p>C/D 错误：粗硅提纯流程，非制备粗硅。</p>"
+  },
+  {
+    "question": "下列反应中，属于分解反应且生成两种单质的是：",
+    "options": [
+      "\\(2\\mathrm{H}_2\\mathrm{O}_2 \\xrightarrow{\\text{MnO}_2} 2\\mathrm{H}_2\\mathrm{O} + \\mathrm{O}_2\\uparrow\\)",
+      "\\(2\\mathrm{KClO}_3 \\xrightarrow{\\text{MnO}_2} 2\\mathrm{KCl} + 3\\mathrm{O}_2\\uparrow\\)",
+      "\\(2\\mathrm{HgO} \\xrightarrow{\\Delta} 2\\mathrm{Hg} + \\mathrm{O}_2\\uparrow\\)",
+      "\\(\\mathrm{CaCO}_3 \\xrightarrow{\\text{高温}} \\mathrm{CaO} + \\mathrm{CO}_2\\uparrow\\)"
+    ],
+    "correct_index": 2,
+    "explanation": "<p><strong>解析：</strong></p><p>A/B 生成 O₂ 但另一产物为化合物。</p><p>C 正确：氧化汞分解生成汞和氧气，两者均为单质。</p><p>D 生成 CO₂ 为化合物。</p>"
+  },
+  {
+    "question": "下列关于碳酸氢钠受热分解的方程式，书写正确的是：",
+    "options": [
+      "\\(2\\mathrm{NaHCO}_3 \\xrightarrow{\\Delta} \\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{H}_2\\mathrm{O} + \\mathrm{CO}_2 \\uparrow\\)",
+      "\\(\\mathrm{NaHCO}_3 \\xrightarrow{\\Delta} \\mathrm{NaOH} + \\mathrm{CO}_2 \\uparrow\\)",
+      "\\(2\\mathrm{NaHCO}_3 \\xrightarrow{\\Delta} 2\\mathrm{NaOH} + 2\\mathrm{CO}_2 \\uparrow\\)",
+      "\\(\\mathrm{NaHCO}_3 \\xrightarrow{\\Delta} \\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{CO}_2 \\uparrow\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：碳酸氢钠在约 270 °C 分解，生成碳酸钠、水和二氧化碳，配平完整。</p><p>B 错误：产物应为碳酸钠而非氢氧化钠。</p><p>C 错误：分解产物与计量均不符。</p><p>D 错误：缺少水分子，不符合质量守恒。</p>"
+  },
+  {
+    "question": "下列关于氨气催化氧化的化学方程式，正确的是：",
+    "options": [
+      "\\(4\\mathrm{NH}_3 + 5\\mathrm{O}_2 \\xrightarrow{\\text{Pt}, 850^{\\circ}\\mathrm{C}} 4\\mathrm{NO} + 6\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(4\\mathrm{NH}_3 + 3\\mathrm{O}_2 \\xrightarrow{\\text{Pt}} 2\\mathrm{N}_2 + 6\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(2\\mathrm{NH}_3 + \\mathrm{O}_2 \\xrightarrow{\\text{Pt}} 2\\mathrm{NO}_2 + 3\\mathrm{H}_2\\)",
+      "\\(2\\mathrm{NH}_3 + \\mathrm{O}_2 \\rightarrow \\mathrm{N}_2\\mathrm{O} + 3\\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：工业接触法制硝酸第一步，氨催化氧化生成 NO 与水，温度 850 °C、Pt-Rh 催化。</p><p>B 错误：高温缺氧条件下生成 N₂，非主流程。</p><p>C 错误：生成 NO₂ 需二次氧化，非催化氧化直接产物。</p><p>D 错误：N₂O 为副产物，计量与主反应不符。</p>"
+  },
+  {
+    "question": "下列关于镁条在二氧化碳中燃烧的方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{Mg} + \\mathrm{CO}_2 \\xrightarrow{\\text{点燃}} \\mathrm{MgO} + \\mathrm{CO}\\)",
+      "\\(2\\mathrm{Mg} + \\mathrm{CO}_2 \\xrightarrow{\\text{点燃}} 2\\mathrm{MgO} + \\mathrm{C}\\)",
+      "\\(\\mathrm{Mg} + \\mathrm{CO}_2 \\xrightarrow{\\text{点燃}} \\mathrm{MgCO}_3\\)",
+      "\\(2\\mathrm{Mg} + \\mathrm{CO}_2 \\rightarrow 2\\mathrm{MgO} + \\mathrm{CO}_2\\uparrow\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：CO 不是主要最终产物。</p><p>B 正确：镁还原 CO₂，生成 MgO 和黑色碳粉，反应剧烈放热。</p><p>C 错误：高温下碳酸镁立即分解，不会稳定存在。</p><p>D 错误：产物重复 CO₂，违背质量守恒。</p>"
+  },
+  {
+    "question": "下列关于氢氧化亚铁被空气中氧气氧化的方程式，正确的是：",
+    "options": [
+      "\\(4\\mathrm{Fe(OH)}_2 + \\mathrm{O}_2 \\rightarrow 4\\mathrm{FeO} + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(4\\mathrm{Fe(OH)}_2 + \\mathrm{O}_2 + 2\\mathrm{H}_2\\mathrm{O} \\rightarrow 4\\mathrm{Fe(OH)}_3\\)",
+      "\\(2\\mathrm{Fe(OH)}_2 + \\mathrm{O}_2 \\rightarrow 2\\mathrm{Fe}_2\\mathrm{O}_3 + 4\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Fe(OH)}_2 + \\mathrm{O}_2 \\rightarrow \\mathrm{Fe}_3\\mathrm{O}_4 + \\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：FeO 在碱性环境中不稳定。</p><p>B 正确：氢氧化亚铁逐步被氧化为红褐色的氢氧化铁，需水参与。</p><p>C 错误：直接生成 Fe₂O₃ 需更高温度及脱水条件。</p><p>D 错误：计量与产物不符。</p>"
+  },
+  {
+    "question": "下列关于二氧化锰与浓盐酸共热的方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{MnO}_2 + 2\\mathrm{HCl} \\xrightarrow{\\Delta} \\mathrm{MnCl}_2 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{MnO}_2 + 4\\mathrm{HCl}(\\text{浓}) \\xrightarrow{\\Delta} \\mathrm{MnCl}_2 + \\mathrm{Cl}_2\\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{MnO}_2 + 2\\mathrm{HCl} \\rightarrow \\mathrm{MnO} + \\mathrm{Cl}_2\\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{MnO}_2 + 2\\mathrm{HCl} \\rightarrow \\mathrm{MnCl}_2 + \\mathrm{H}_2\\uparrow + \\mathrm{O}_2\\uparrow\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：缺少氧化产物 Cl₂。</p><p>B 正确：MnO₂ 将浓盐酸氧化生成 Cl₂，配平完整。</p><p>C 错误：MnO 非稳定产物。</p><p>D 错误：不会放出 H₂ 和 O₂。</p>"
+  },
+  {
+    "question": "下列关于硅酸钠溶液中通入足量 CO₂ 的方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{Na}_2\\mathrm{SiO}_3 + \\mathrm{CO}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{H}_2\\mathrm{SiO}_3\\downarrow\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{SiO}_3 + 2\\mathrm{CO}_2 + 2\\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{NaHCO}_3 + \\mathrm{H}_2\\mathrm{SiO}_3\\downarrow\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{SiO}_3 + \\mathrm{CO}_2 \\rightarrow \\mathrm{Na}_2\\mathrm{CO}_3 + \\mathrm{SiO}_2\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{SiO}_3 + \\mathrm{CO}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{NaHCO}_3 + \\mathrm{NaHSiO}_3\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：碳酸酸性强于硅酸，置换出硅酸凝胶沉淀。</p><p>B 错误：足量 CO₂ 生成 NaHCO₃，但计量比例不符。</p><p>C 错误：SiO₂ 不直接沉淀。</p><p>D 错误：产物与实验事实不符。</p>"
+  },
+  {
+    "question": "下列关于电解饱和食盐水的化学方程式，正确的是：",
+    "options": [
+      "\\(2\\mathrm{NaCl} + 2\\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{电解}} 2\\mathrm{NaOH} + \\mathrm{H}_2\\uparrow + \\mathrm{Cl}_2\\uparrow\\)",
+      "\\(\\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{电解}} \\mathrm{NaOH} + \\mathrm{HCl}\\)",
+      "\\(2\\mathrm{NaCl} \\xrightarrow{\\text{电解}} 2\\mathrm{Na} + \\mathrm{Cl}_2\\uparrow\\)",
+      "\\(2\\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{电解}} 2\\mathrm{H}_2\\uparrow + \\mathrm{O}_2\\uparrow\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：隔膜电解槽中，Cl⁻ 在阳极氧化为 Cl₂，H₂O 在阴极还原为 H₂ 和 OH⁻，生成 NaOH。</p><p>B 错误：无 HCl 气体生成。</p><p>C 错误：水溶液中 Na⁺ 不会被还原为金属钠。</p><p>D 错误：忽略了 Cl⁻ 放电。</p>"
+  },
+  {
+    "question": "下列关于铜与稀硝酸反应的方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{Cu} + 2\\mathrm{HNO}_3 \\rightarrow \\mathrm{Cu(NO}_3)_2 + \\mathrm{H}_2\\uparrow\\)",
+      "\\(3\\mathrm{Cu} + 8\\mathrm{HNO}_3(\\text{稀}) \\rightarrow 3\\mathrm{Cu(NO}_3)_2 + 2\\mathrm{NO}\\uparrow + 4\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Cu} + 4\\mathrm{HNO}_3(\\text{稀}) \\rightarrow \\mathrm{Cu(NO}_3)_2 + 2\\mathrm{NO}_2\\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Cu} + 2\\mathrm{HNO}_3 \\rightarrow \\mathrm{CuO} + 2\\mathrm{NO} + \\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：硝酸为氧化性酸，不产生 H₂。</p><p>B 正确：稀硝酸还原产物为 NO，配平完整。</p><p>C 错误：NO₂ 为浓硝酸还原产物。</p><p>D 错误：CuO 不是最终产物。</p>"
+  },
+  {
+    "question": "下列关于硫酸铜晶体加热失水的方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{CuSO}_4\\cdot 5\\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\Delta} \\mathrm{CuSO}_4 + 5\\mathrm{H}_2\\mathrm{O}\\uparrow\\)",
+      "\\(\\mathrm{CuSO}_4\\cdot 5\\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\Delta} \\mathrm{CuO} + \\mathrm{SO}_3 + 5\\mathrm{H}_2\\mathrm{O}\\uparrow\\)",
+      "\\(\\mathrm{CuSO}_4\\cdot 5\\mathrm{H}_2\\mathrm{O} \\xrightarrow{100^{\\circ}\\mathrm{C}} \\mathrm{CuSO}_4\\cdot 3\\mathrm{H}_2\\mathrm{O} + 2\\mathrm{H}_2\\mathrm{O}\\uparrow\\)",
+      "\\(\\mathrm{CuSO}_4\\cdot 5\\mathrm{H}_2\\mathrm{O} \\xrightarrow{250^{\\circ}\\mathrm{C}} \\mathrm{CuSO}_4 + 5\\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：加热至 >200 °C 五水硫酸铜完全失水变为白色无水硫酸铜。</p><p>B 错误：高温分解需更高温度且产物复杂。</p><p>C 错误：分步失水，但 100 °C 仅失 2 分子水，非全部。</p><p>D 错误：温度条件不足，表述不完整。</p>"
+  },
+  {
+    "question": "下列关于氢气还原氧化铜的方程式，正确的是：",
+    "options": [
+      "\\(\\mathrm{H}_2 + \\mathrm{CuO} \\xrightarrow{\\Delta} \\mathrm{Cu} + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{H}_2 + \\mathrm{CuO} \\xrightarrow{\\Delta} \\mathrm{Cu} + \\mathrm{H}_2\\uparrow\\)",
+      "\\(\\mathrm{H}_2 + 2\\mathrm{CuO} \\xrightarrow{\\Delta} \\mathrm{Cu}_2\\mathrm{O} + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{H}_2 + \\mathrm{CuO} \\xrightarrow{\\Delta} \\mathrm{CuOH}\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：氢气在加热条件下将 CuO 还原为金属铜并生成水，颜色由黑变红。</p><p>B 错误：产物为水，不是氢气。</p><p>C 错误：需缺氧条件才生成 Cu₂O。</p><p>D 错误：CuOH 不存在。</p>"
+  },
+  {
+    "question": "钠在空气中燃烧的产物是：",
+    "options": [
+      "Na₂O",
+      "Na₂O₂",
+      "NaOH",
+      "NaHCO₃"
+    ],
+    "correct_index": 1,
+    "explanation": "钠燃烧生成淡黄色过氧化钠（Na₂O₂），非普通氧化钠。"
+  },
+  {
+    "question": "过氧化钠与水反应的离子方程式是：",
+    "options": [
+      "2Na₂O₂ + 2H₂O → 4NaOH + O₂↑",
+      "Na₂O₂ + H₂O → 2NaOH + O₂",
+      "2Na₂O₂ + 2H₂O → 4Na⁺ + 4OH⁻ + O₂↑",
+      "Na₂O₂ + 2H₂O → 2Na⁺ + 2OH⁻ + H₂O₂"
+    ],
+    "correct_index": 2,
+    "explanation": "需体现NaOH完全电离及O₂生成，C选项配平正确且含离子形式。"
+  },
+  {
+    "question": "铁与水蒸气反应的产物是：",
+    "options": [
+      "FeO + H₂",
+      "Fe₃O₄ + H₂",
+      "Fe₂O₃ + H₂O",
+      "Fe(OH)₃ + H₂"
+    ],
+    "correct_index": 1,
+    "explanation": "高温下铁与水蒸气生成四氧化三铁和氢气（3Fe + 4H₂O(g) → Fe₃O₄ + 4H₂）。"
+  },
+  {
+    "question": "铝与氢氧化钠溶液反应生成的含铝产物是：",
+    "options": [
+      "Al(OH)₃",
+      "NaAlO₂",
+      "AlCl₃",
+      "Al₂O₃"
+    ],
+    "correct_index": 1,
+    "explanation": "铝与NaOH反应生成偏铝酸钠（NaAlO₂）和氢气。"
+  },
+  {
+    "question": "二氧化硅与氢氟酸反应的化学方程式是：",
+    "options": [
+      "SiO₂ + 4HF → SiF₄↑ + 2H₂O",
+      "SiO₂ + 2HF → SiF₂ + H₂O",
+      "SiO₂ + 6HF → H₂SiF₆ + 2H₂O",
+      "SiO₂ + HF → SiF₄ + H₂"
+    ],
+    "correct_index": 0,
+    "explanation": "SiO₂与HF反应生成挥发性SiF₄和水，A选项配平正确。"
+  },
+  {
+    "question": "氯气与冷氢氧化钠溶液反应的离子方程式是：",
+    "options": [
+      "Cl₂ + 2OH⁻ → Cl⁻ + ClO⁻ + H₂O",
+      "Cl₂ + OH⁻ → Cl⁻ + HClO",
+      "3Cl₂ + 6OH⁻ → 5Cl⁻ + ClO₃⁻ + 3H₂O",
+      "Cl₂ + 2OH⁻ → 2Cl⁻ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "冷碱中Cl₂发生歧化生成Cl⁻和ClO⁻，A选项符合。"
+  },
+  {
+    "question": "铜与浓硝酸反应生成的气体是：",
+    "options": [
+      "NO",
+      "NO₂",
+      "N₂O",
+      "NH₃"
+    ],
+    "correct_index": 1,
+    "explanation": "浓硝酸氧化铜生成红棕色NO₂（Cu + 4HNO₃(浓) → Cu(NO₃)₂ + 2NO₂↑ + 2H₂O）。"
+  },
+  {
+    "question": "氨气催化氧化的化学方程式是：",
+    "options": [
+      "4NH₃ + 3O₂ → 2N₂ + 6H₂O",
+      "4NH₃ + 5O₂ → 4NO + 6H₂O",
+      "2NH₃ + O₂ → 2NO + 3H₂",
+      "4NH₃ + 7O₂ → 4NO₂ + 6H₂O"
+    ],
+    "correct_index": 1,
+    "explanation": "工业制硝酸第一步：4NH₃ + 5O₂ → 4NO + 6H₂O（Pt催化）。"
+  },
+  {
+    "question": "甲烷与氯气光照下第一步取代的产物是：",
+    "options": [
+      "CH₃Cl",
+      "CH₂Cl₂",
+      "CCl₄",
+      "CHCl₃"
+    ],
+    "correct_index": 0,
+    "explanation": "自由基链式反应第一步生成一氯甲烷（CH₄ + Cl₂ → CH₃Cl + HCl）。"
+  },
+  {
+    "question": "乙烯与溴水反应的化学方程式是：",
+    "options": [
+      "CH₂=CH₂ + Br₂ → CH₃CHBr₂",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "CH₂=CH₂ + Br₂ → CH₂=CHBr + HBr",
+      "2CH₂=CH₂ + Br₂ → 2CH₃CH₂Br"
+    ],
+    "correct_index": 1,
+    "explanation": "乙烯与Br₂发生加成生成1,2-二溴乙烷（CH₂Br-CH₂Br）。"
+  },
+  {
+    "question": "乙酸与乙醇酯化反应的条件是：",
+    "options": [
+      "浓硫酸，加热",
+      "NaOH溶液，加热",
+      "光照",
+      "常温常压"
+    ],
+    "correct_index": 0,
+    "explanation": "酯化需浓硫酸作催化剂和吸水剂（CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O）。"
+  },
+  {
+    "question": "苯与液溴反应的催化剂是：",
+    "options": [
+      "FeBr₃",
+      "AlCl₃",
+      "光照",
+      "Ni"
+    ],
+    "correct_index": 0,
+    "explanation": "苯与液溴在FeBr₃催化下发生亲电取代生成溴苯。"
+  },
+  {
+    "question": "氢氧化亚铁在空气中氧化的最终产物是：",
+    "options": [
+      "FeO",
+      "Fe(OH)₃",
+      "Fe₃O₄",
+      "Fe₂O₃"
+    ],
+    "correct_index": 1,
+    "explanation": "4Fe(OH)₂ + O₂ + 2H₂O → 4Fe(OH)₃（红褐色沉淀）。"
+  },
+  {
+    "question": "工业制漂白粉的主要反应是：",
+    "options": [
+      "Cl₂ + Ca(OH)₂ → CaCl₂ + H₂O",
+      "2Cl₂ + 2Ca(OH)₂ → CaCl₂ + Ca(ClO)₂ + 2H₂O",
+      "Cl₂ + 2NaOH → NaCl + NaClO + H₂O",
+      "Ca(ClO)₂ + CO₂ → CaCO₃ + 2HClO"
+    ],
+    "correct_index": 1,
+    "explanation": "氯气与消石灰反应生成CaCl₂和Ca(ClO)₂混合物（漂白粉）。"
+  },
+  {
+    "question": "过氧化钠与二氧化碳反应的化学方程式是：",
+    "options": [
+      "Na₂O₂ + CO₂ → Na₂CO₃",
+      "2Na₂O₂ + 2CO₂ → 2Na₂CO₃ + O₂",
+      "Na₂O₂ + 2CO₂ → 2NaHCO₃",
+      "Na₂O₂ + CO₂ → Na₂O + CO"
+    ],
+    "correct_index": 1,
+    "explanation": "2Na₂O₂ + 2CO₂ → 2Na₂CO₃ + O₂（供氧剂原理）。"
+  },
+  {
+    "question": "镁条在二氧化碳中燃烧的产物是：",
+    "options": [
+      "MgO + CO",
+      "2MgO + C",
+      "MgCO₃",
+      "Mg + CO₂"
+    ],
+    "correct_index": 1,
+    "explanation": "2Mg + CO₂ → 2MgO + C（镁还原CO₂，生成白色MgO和黑色碳）。"
+  },
+  {
+    "question": "实验室制乙烯的化学方程式是：",
+    "options": [
+      "CH₃CH₂OH → CH₂=CH₂ + H₂O",
+      "CH₃CH₂OH → CH₂=CH₂ + H₂↑",
+      "C₂H₅OH → C₂H₄ + H₂O",
+      "CH₃CH₂OH → CH₃CHO + H₂"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醇在浓硫酸170℃脱水生成乙烯（CH₃CH₂OH → CH₂=CH₂ + H₂O）。"
+  },
+  {
+    "question": "铜与稀硝酸反应的还原产物是：",
+    "options": [
+      "NO₂",
+      "NO",
+      "N₂O",
+      "NH₄⁺"
+    ],
+    "correct_index": 1,
+    "explanation": "3Cu + 8HNO₃(稀) → 3Cu(NO₃)₂ + 2NO↑ + 4H₂O。"
+  },
+  {
+    "question": "碳酸氢钠受热分解的化学方程式是：",
+    "options": [
+      "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑",
+      "NaHCO₃ → NaOH + CO₂↑",
+      "2NaHCO₃ → 2NaOH + 2CO₂↑",
+      "NaHCO₃ → Na₂CO₃ + CO₂↑"
+    ],
+    "correct_index": 0,
+    "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑（270℃分解）。"
+  },
+  {
+    "question": "二氧化锰与浓盐酸共热的反应中，氧化产物是：",
+    "options": [
+      "MnCl₂",
+      "Cl₂",
+      "H₂O",
+      "MnO"
+    ],
+    "correct_index": 1,
+    "explanation": "MnO₂ + 4HCl(浓) → MnCl₂ + Cl₂↑ + 2H₂O（Cl₂为氧化产物）。"
+  },
+  {
+    "question": "硅酸钠溶液中通入少量CO₂的离子方程式是：",
+    "options": [
+      "SiO₃²⁻ + CO₂ + H₂O → H₂SiO₃↓ + CO₃²⁻",
+      "SiO₃²⁻ + 2CO₂ + 2H₂O → 2HCO₃⁻ + H₂SiO₃↓",
+      "SiO₃²⁻ + CO₂ → SiO₂ + CO₃²⁻",
+      "SiO₃²⁻ + H₂O → HSiO₃⁻ + OH⁻"
+    ],
+    "correct_index": 0,
+    "explanation": "少量CO₂与SiO₃²⁻反应生成硅酸沉淀和CO₃²⁻（A选项正确）。"
+  },
+  {
+    "question": "电解饱和食盐水的阴极产物是：",
+    "options": [
+      "Cl₂",
+      "H₂",
+      "NaOH",
+      "O₂"
+    ],
+    "correct_index": 1,
+    "explanation": "阴极：2H₂O + 2e⁻ → H₂↑ + 2OH⁻，生成H₂和NaOH。"
+  },
+  {
+    "question": "苯酚与溴水反应生成的沉淀是：",
+    "options": [
+      "C₆H₅Br",
+      "2,4,6-三溴苯酚",
+      "C₆H₂Br₄",
+      "C₆H₅OH·Br₂"
+    ],
+    "correct_index": 1,
+    "explanation": "苯酚与过量溴水生成白色2,4,6-三溴苯酚沉淀。"
+  },
+  {
+    "question": "乙醛银镜反应的化学方程式中，氧化剂是：",
+    "options": [
+      "AgNO₃",
+      "[Ag(NH₃)₂]⁺",
+      "NH₃·H₂O",
+      "NaOH"
+    ],
+    "correct_index": 1,
+    "explanation": "银氨络离子[Ag(NH₃)₂]⁺作为弱氧化剂氧化醛基。"
+  },
+  {
+    "question": "工业制粗硅的化学方程式是：",
+    "options": [
+      "SiO₂ + C → Si + CO₂",
+      "SiO₂ + 2C → Si + 2CO↑",
+      "Si + 2Cl₂ → SiCl₄",
+      "SiCl₄ + 2H₂ → Si + 4HCl"
+    ],
+    "correct_index": 1,
+    "explanation": "SiO₂ + 2C → Si + 2CO↑（电弧炉高温制备粗硅）。"
+  },
+  {
+    "question": "下列反应属于分解反应且生成两种单质的是：",
+    "options": [
+      "2H₂O₂ → 2H₂O + O₂↑",
+      "2KClO₃ → 2KCl + 3O₂↑",
+      "2HgO → 2Hg + O₂↑",
+      "CaCO₃ → CaO + CO₂↑"
+    ],
+    "correct_index": 2,
+    "explanation": "2HgO → 2Hg + O₂↑（生成汞和氧气两种单质）。"
+  },
+  {
+    "question": "硫酸铜晶体加热失水的化学方程式是：",
+    "options": [
+      "CuSO₄·5H₂O → CuSO₄ + 5H₂O↑",
+      "CuSO₄·5H₂O → CuO + SO₃ + 5H₂O↑",
+      "CuSO₄·5H₂O → CuSO₄·3H₂O + 2H₂O↑",
+      "CuSO₄·5H₂O → Cu + SO₂ + 5H₂O↑"
+    ],
+    "correct_index": 0,
+    "explanation": ">200℃时五水硫酸铜完全失水变为白色无水CuSO₄。"
+  },
+  {
+    "question": "氢气还原氧化铜的实验现象是：",
+    "options": [
+      "黑色固体变红，试管壁有水珠",
+      "红色固体变黑，生成无色气体",
+      "绿色固体变白，生成刺激性气体",
+      "固体颜色不变，生成蓝色溶液"
+    ],
+    "correct_index": 0,
+    "explanation": "H₂ + CuO → Cu + H₂O，黑色CuO变为红色Cu，同时生成水。"
+  },
+  {
+    "question": "下列离子方程式中，能表示碳酸根检验的是：",
+    "options": [
+      "CO₃²⁻ + 2H⁺ → CO₂↑ + H₂O",
+      "CO₃²⁻ + Ca²⁺ → CaCO₃↓",
+      "CO₃²⁻ + H₂O → HCO₃⁻ + OH⁻",
+      "CO₃²⁻ + 2OH⁻ → CO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "CO₃²⁻与酸反应生成CO₂气体，常用于检验碳酸根。"
+  },
+  {
+    "question": "下列关于铝热反应的叙述正确的是：",
+    "options": [
+      "反应吸热，需持续加热",
+      "产物为Al₂O₃和Fe",
+      "使用Mg条和KClO₃作引燃剂",
+      "用于焊接铁轨"
+    ],
+    "correct_index": 1,
+    "explanation": "Fe₂O₃ + 2Al → 2Fe + Al₂O₃，反应放热且产物为Fe和Al₂O₃。"
+  },
+  {
+    "question": "下列反应中，属于取代反应的是：",
+    "options": [
+      "CH₄ + Cl₂ → CH₃Cl + HCl",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "2C₂H₅OH → C₂H₅-O-C₂H₅ + H₂O",
+      "C₂H₅OH → CH₂=CH₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "甲烷氯代是典型的自由基取代反应。"
+  },
+  {
+    "question": "下列关于乙酸性质的描述错误的是：",
+    "options": [
+      "能与NaHCO₃反应生成CO₂",
+      "能使紫色石蕊试液变红",
+      "能与乙醇发生酯化反应",
+      "能使溴水褪色"
+    ],
+    "correct_index": 3,
+    "explanation": "乙酸不能使溴水褪色，其酸性不足以氧化Br₂。"
+  },
+  {
+    "question": "下列反应中，属于加成反应的是：",
+    "options": [
+      "C₂H₄ + H₂ → C₂H₆",
+      "C₆H₆ + Br₂ → C₆H₅Br + HBr",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "CH₃COOH + NaOH → CH₃COONa + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙烯加氢生成乙烷是典型的加成反应。"
+  },
+  {
+    "question": "下列关于苯的叙述正确的是：",
+    "options": [
+      "能使酸性KMnO₄溶液褪色",
+      "与溴水反应生成白色沉淀",
+      "燃烧时产生明亮火焰和浓烟",
+      "与H₂加成需FeCl₃催化"
+    ],
+    "correct_index": 2,
+    "explanation": "苯燃烧时因碳含量高产生浓烟（2C₆H₆ + 15O₂ → 12CO₂ + 6H₂O）。"
+  },
+  {
+    "question": "工业上用焦炭还原二氧化硅制取粗硅的化学方程式是：",
+    "options": [
+      "SiO₂ + C → Si + CO₂",
+      "SiO₂ + 2C → Si + 2CO↑",
+      "SiO₂ + C → SiO + CO",
+      "SiO₂ + 3C → SiC + 2CO↑"
+    ],
+    "correct_index": 1,
+    "explanation": "高温下焦炭还原SiO₂生成粗硅和一氧化碳：SiO₂ + 2C → Si + 2CO↑"
+  },
+  {
+    "question": "下列反应中，属于皂化反应的是：",
+    "options": [
+      "油脂 + NaOH → 甘油 + 高级脂肪酸钠",
+      "油脂 + H₂SO₄ → 甘油 + 高级脂肪酸",
+      "乙醇 + 乙酸 → 乙酸乙酯",
+      "蛋白质 + 酶 → 氨基酸"
+    ],
+    "correct_index": 0,
+    "explanation": "皂化反应是油脂在碱性条件下的水解反应，生成甘油和高级脂肪酸钠。"
+  },
+  {
+    "question": "苯酚与FeCl₃溶液反应的现象是：",
+    "options": [
+      "产生白色沉淀",
+      "溶液变紫色",
+      "产生气泡",
+      "溶液褪色"
+    ],
+    "correct_index": 1,
+    "explanation": "苯酚与FeCl₃溶液反应生成紫色络合物，这是酚类特征反应。"
+  },
+  {
+    "question": "下列反应中，属于消去反应的是：",
+    "options": [
+      "CH₃CH₂Br + NaOH → CH₂=CH₂ + NaBr + H₂O",
+      "CH₃CH₂OH + HBr → CH₃CH₂Br + H₂O",
+      "CH₃CHO + H₂ → CH₃CH₂OH",
+      "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "溴乙烷在NaOH醇溶液中发生消去反应生成乙烯。"
+  },
+  {
+    "question": "下列关于二氧化硫性质的描述错误的是：",
+    "options": [
+      "能使品红溶液褪色",
+      "能与CaO反应生成CaSO₃",
+      "能使酸性KMnO₄溶液褪色",
+      "能与水反应生成H₂SO₄"
+    ],
+    "correct_index": 3,
+    "explanation": "SO₂与水反应生成H₂SO₃（亚硫酸），而非H₂SO₄。"
+  },
+  {
+    "question": "下列反应中，属于氧化还原反应的是：",
+    "options": [
+      "AgNO₃ + NaCl → AgCl↓ + NaNO₃",
+      "2FeCl₂ + Cl₂ → 2FeCl₃",
+      "CH₃COOH + NaOH → CH₃COONa + H₂O",
+      "CaCO₃ → CaO + CO₂↑"
+    ],
+    "correct_index": 1,
+    "explanation": "Fe²⁺被Cl₂氧化为Fe³⁺，元素化合价发生变化，属于氧化还原反应。"
+  },
+  {
+    "question": "下列关于乙醛银镜反应的描述正确的是：",
+    "options": [
+      "需酸性环境",
+      "生成红色沉淀",
+      "氧化剂是[Ag(NH₃)₂]⁺",
+      "产物为乙酸铵"
+    ],
+    "correct_index": 2,
+    "explanation": "银镜反应在碱性条件下进行，[Ag(NH₃)₂]⁺作氧化剂，生成银镜和乙酸铵。"
+  },
+  {
+    "question": "下列反应中，属于加聚反应的是：",
+    "options": [
+      "n CH₂=CH₂ → [CH₂-CH₂]n",
+      "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O",
+      "C₆H₆ + Br₂ → C₆H₅Br + HBr",
+      "C₂H₅OH → CH₂=CH₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙烯聚合生成聚乙烯是典型的加聚反应。"
+  },
+  {
+    "question": "下列关于蛋白质性质的描述错误的是：",
+    "options": [
+      "能与浓硝酸发生显色反应",
+      "水解最终生成氨基酸",
+      "遇重金属盐会变性",
+      "能与斐林试剂反应生成银镜"
+    ],
+    "correct_index": 3,
+    "explanation": "蛋白质无醛基，不能与斐林试剂反应生成银镜。"
+  },
+  {
+    "question": "下列反应中，属于水解反应的是：",
+    "options": [
+      "CH₃COOC₂H₅ + H₂O → CH₃COOH + C₂H₅OH",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "CH₄ + Cl₂ → CH₃Cl + HCl"
+    ],
+    "correct_index": 0,
+    "explanation": "乙酸乙酯在酸或碱催化下水解生成乙酸和乙醇。"
+  },
+  {
+    "question": "下列关于甲苯性质的描述正确的是：",
+    "options": [
+      "能使溴水褪色",
+      "不能使酸性KMnO₄溶液褪色",
+      "硝化反应生成三硝基甲苯",
+      "与H₂加成生成环己烷"
+    ],
+    "correct_index": 2,
+    "explanation": "甲苯硝化生成2,4,6-三硝基甲苯（TNT），甲基被活化。"
+  },
+  {
+    "question": "下列反应中，属于置换反应的是：",
+    "options": [
+      "Fe + CuSO₄ → FeSO₄ + Cu",
+      "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑",
+      "2H₂O₂ → 2H₂O + O₂↑",
+      "CH₃CHO + H₂ → CH₃CH₂OH"
+    ],
+    "correct_index": 0,
+    "explanation": "铁置换硫酸铜中的铜，属于置换反应。"
+  },
+  {
+    "question": "下列关于油脂性质的描述错误的是：",
+    "options": [
+      "水解可生成甘油和高级脂肪酸",
+      "皂化反应需碱性条件",
+      "植物油含较多不饱和脂肪酸",
+      "动物油常温下为液态"
+    ],
+    "correct_index": 3,
+    "explanation": "动物油含较多饱和脂肪酸，常温下多为固态。"
+  },
+  {
+    "question": "下列反应中，属于中和反应的是：",
+    "options": [
+      "CH₃COOH + NaOH → CH₃COONa + H₂O",
+      "C₂H₅OH + HBr → C₂H₅Br + H₂O",
+      "C₆H₆ + Br₂ → C₆H₅Br + HBr",
+      "CH₂=CH₂ + H₂ → CH₃-CH₃"
+    ],
+    "correct_index": 0,
+    "explanation": "乙酸与氢氧化钠反应是典型的酸碱中和反应。"
+  },
+  {
+    "question": "下列关于苯酚酸性的描述正确的是：",
+    "options": [
+      "酸性比碳酸强",
+      "能与Na₂CO₃反应放出CO₂",
+      "能与NaOH反应生成苯酚钠",
+      "能使酚酞变红"
+    ],
+    "correct_index": 2,
+    "explanation": "苯酚显弱酸性，能与NaOH反应生成苯酚钠和水。"
+  },
+  {
+    "question": "下列反应中，属于裂化反应的是：",
+    "options": [
+      "C₁₆H₃₄ → C₈H₁₈ + C₈H₁₆",
+      "CH₄ + Cl₂ → CH₃Cl + HCl",
+      "C₂H₄ + H₂ → C₂H₆",
+      "n CH₂=CH₂ → [CH₂-CH₂]n"
+    ],
+    "correct_index": 0,
+    "explanation": "十六烷裂化为辛烷和辛烯是典型的石油裂化反应。"
+  },
+  {
+    "question": "下列关于纤维素水解的描述正确的是：",
+    "options": [
+      "最终生成葡萄糖",
+      "需稀硫酸作催化剂",
+      "生成乙醇",
+      "生成氨基酸"
+    ],
+    "correct_index": 0,
+    "explanation": "纤维素水解最终生成葡萄糖：(C₆H₁₀O₅)n + nH₂O → nC₆H₁₂O₆"
+  },
+  {
+    "question": "下列反应中，属于取代反应的是：",
+    "options": [
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O",
+      "CH₂=CH₂ + H₂O → CH₃CH₂OH",
+      "2C₂H₅OH → C₂H₅OC₂H₅ + H₂O",
+      "C₂H₅OH → CH₂=CH₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "苯的硝化反应是硝基取代苯环上的氢原子。"
+  },
+  {
+    "question": "下列关于乙炔性质的描述错误的是：",
+    "options": [
+      "能使酸性KMnO₄溶液褪色",
+      "能与Br₂发生加成反应",
+      "燃烧时产生浓烟",
+      "与水加成生成乙醇"
+    ],
+    "correct_index": 3,
+    "explanation": "乙炔与水加成需汞盐催化生成乙醛，不能直接生成乙醇。"
+  },
+  {
+    "question": "下列反应中，属于氧化反应的是：",
+    "options": [
+      "2CH₃CH₂OH + O₂ → 2CH₃CHO + 2H₂O",
+      "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O",
+      "C₂H₅Br + NaOH → CH₂=CH₂ + NaBr + H₂O",
+      "CH₄ + Cl₂ → CH₃Cl + HCl"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醇氧化为乙醛是氧化反应。"
+  },
+  {
+    "question": "下列关于蛋白质变性的描述正确的是：",
+    "options": [
+      "遇浓硝酸显黄色",
+      "遇CuSO₄溶液凝结",
+      "水解生成氨基酸",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "蛋白质遇浓硝酸显黄色（黄蛋白反应），遇重金属盐变性凝结，水解最终生成氨基酸。"
+  },
+  {
+    "question": "向AlCl₃溶液中逐滴加入NaOH溶液至过量，最终产物是：",
+    "options": [
+      "Al(OH)₃",
+      "NaAlO₂",
+      "Al₂O₃",
+      "Al(OH)₃和NaCl"
+    ],
+    "correct_index": 1,
+    "explanation": "Al³⁺ + 4OH⁻ → [Al(OH)₄]⁻（即NaAlO₂·2H₂O）。"
+  },
+  {
+    "question": "下列反应中，属于歧化反应的是：",
+    "options": [
+      "Cl₂ + 2NaOH → NaCl + NaClO + H₂O",
+      "2H₂O₂ → 2H₂O + O₂↑",
+      "2KClO₃ → 2KCl + 3O₂↑",
+      "Fe + CuSO₄ → FeSO₄ + Cu"
+    ],
+    "correct_index": 0,
+    "explanation": "Cl₂中Cl(0)既被氧化为Cl(+1)又被还原为Cl(−1)，属于歧化反应。"
+  },
+  {
+    "question": "下列离子方程式正确的是：",
+    "options": [
+      "CaCO₃ + 2H⁺ → Ca²⁺ + H₂O + CO₂↑",
+      "CO₃²⁻ + H⁺ → HCO₃⁻",
+      "HCO₃⁻ + OH⁻ → CO₃²⁻ + H₂O",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "A、B、C 均为常见的碳酸盐体系正确离子方程式。"
+  },
+  {
+    "question": "下列反应中，属于置换反应的是：",
+    "options": [
+      "2AgI → 2Ag + I₂（光照）",
+      "Zn + 2HCl → ZnCl₂ + H₂↑",
+      "2KClO₃ → 2KCl + 3O₂↑",
+      "Cl₂ + 2NaOH → NaCl + NaClO + H₂O"
+    ],
+    "correct_index": 1,
+    "explanation": "Zn置换酸中的氢，属于置换反应。"
+  },
+  {
+    "question": "下列关于乙烯聚合的说法错误的是：",
+    "options": [
+      "属于加聚反应",
+      "产物是高分子化合物",
+      "需高压高温条件",
+      "单体是CH₂=CH₂"
+    ],
+    "correct_index": 2,
+    "explanation": "乙烯低压聚合（Ziegler-Natta催化剂）可在较温和条件下进行。"
+  },
+  {
+    "question": "下列反应中，能证明乙酸酸性强于碳酸的是：",
+    "options": [
+      "2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑",
+      "CH₃COOH + NaOH → CH₃COONa + H₂O",
+      "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O",
+      "CH₃COOH + Na → 1/2H₂↑ + CH₃COONa"
+    ],
+    "correct_index": 0,
+    "explanation": "强酸制弱酸：乙酸能分解Na₂CO₃放出CO₂，说明乙酸酸性强于碳酸。"
+  },
+  {
+    "question": "下列关于电解精炼铜的叙述正确的是：",
+    "options": [
+      "粗铜作阳极，纯铜作阴极",
+      "电解质为CuSO₄溶液",
+      "阳极泥含Au、Ag等贵金属",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "电解精炼铜：粗铜阳极溶解，纯铜阴极析出；阳极泥回收贵金属；电解液为CuSO₄+H₂SO₄。"
+  },
+  {
+    "question": "下列反应中，属于加成-消去机理的是：",
+    "options": [
+      "乙醇脱水生成乙烯",
+      "苯的硝化反应",
+      "乙醛银镜反应",
+      "酯的水解"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醇先质子化（加成）再脱水（消去），生成乙烯。"
+  },
+  {
+    "question": "下列关于NH₃的实验室制法，正确的是：",
+    "options": [
+      "NH₄Cl + Ca(OH)₂ → CaCl₂ + 2NH₃↑ + 2H₂O",
+      "NH₄NO₃ + NaOH → NaNO₃ + NH₃↑ + H₂O",
+      "N₂ + 3H₂ → 2NH₃（高温高压）",
+      "NH₄Cl → NH₃↑ + HCl↑（加热）"
+    ],
+    "correct_index": 0,
+    "explanation": "实验室用铵盐与消石灰共热制氨气，A选项正确。"
+  },
+  {
+    "question": "下列反应中，属于氧化反应的是：",
+    "options": [
+      "2CH₃CHO + O₂ → 2CH₃COOH（催化剂）",
+      "CH₃COOH + NaOH → CH₃COONa + H₂O",
+      "C₂H₅OH → CH₂=CH₂ + H₂O（浓H₂SO₄）",
+      "C₂H₅OH + HBr → C₂H₅Br + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醛氧化为乙酸，属于氧化反应。"
+  },
+  {
+    "question": "下列关于过氧化氢分解的叙述错误的是：",
+    "options": [
+      "MnO₂可作催化剂",
+      "反应放热",
+      "生成H₂和O₂",
+      "属于氧化还原反应"
+    ],
+    "correct_index": 2,
+    "explanation": "2H₂O₂ → 2H₂O + O₂↑，产物为水与氧气，无H₂生成。"
+  },
+  {
+    "question": "下列反应中，能用于检验Fe²⁺的是：",
+    "options": [
+      "Fe²⁺ + [Fe(CN)₆]³⁻ → 蓝色沉淀",
+      "Fe²⁺ + SCN⁻ → 血红色溶液",
+      "Fe²⁺ + OH⁻ → 灰绿色沉淀",
+      "Fe²⁺ + Cl₂ → Fe³⁺"
+    ],
+    "correct_index": 0,
+    "explanation": "Fe²⁺与[Fe(CN)₆]³⁻生成滕氏蓝沉淀，是特征检验方法。"
+  },
+  {
+    "question": "下列离子方程式中，正确表示NaHCO₃与少量Ca(OH)₂反应的是：",
+    "options": [
+      "2HCO₃⁻ + Ca²⁺ + 2OH⁻ → CaCO₃↓ + CO₃²⁻ + 2H₂O",
+      "HCO₃⁻ + Ca²⁺ + OH⁻ → CaCO₃↓ + H₂O",
+      "HCO₃⁻ + OH⁻ → CO₃²⁻ + H₂O",
+      "Ca²⁺ + 2HCO₃⁻ → CaCO₃↓ + CO₂↑ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "少量Ca(OH)₂使HCO₃⁻部分转化为CO₃²⁻，同时生成CaCO₃沉淀。"
+  },
+  {
+    "question": "下列关于苯乙烯性质的描述正确的是：",
+    "options": [
+      "能发生加聚反应",
+      "能使酸性KMnO₄褪色",
+      "能发生加成反应",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "苯乙烯含C=C键，可加成、加聚；苯环侧链可被KMnO₄氧化。"
+  },
+  {
+    "question": "下列反应中，属于缩合反应的是：",
+    "options": [
+      "CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O",
+      "n CH₂=CH₂ → [CH₂-CH₂]n",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "CH₄ + Cl₂ → CH₃Cl + HCl"
+    ],
+    "correct_index": 0,
+    "explanation": "酯化反应属于缩合反应，脱去小分子水。"
+  },
+  {
+    "question": "下列关于银镜反应的说法错误的是：",
+    "options": [
+      "需水浴加热",
+      "需碱性环境",
+      "可用于检验醛基",
+      "产物为Ag₂O"
+    ],
+    "correct_index": 3,
+    "explanation": "产物是单质Ag（银镜），而非Ag₂O。"
+  },
+  {
+    "question": "下列反应中，能证明HClO是弱酸的是：",
+    "options": [
+      "Cl₂ + H₂O ⇌ HCl + HClO",
+      "NaClO + CO₂ + H₂O → NaHCO₃ + HClO",
+      "2HClO → 2HCl + O₂↑",
+      "HClO + NaOH → NaClO + H₂O"
+    ],
+    "correct_index": 1,
+    "explanation": "强酸制弱酸：CO₂ + H₂O 能置换出HClO，说明HClO酸性弱于H₂CO₃。"
+  },
+  {
+    "question": "下列关于Mg(OH)₂沉淀的描述正确的是：",
+    "options": [
+      "溶于NaOH溶液",
+      "溶于NH₄Cl溶液",
+      "溶于水",
+      "以上都不对"
+    ],
+    "correct_index": 1,
+    "explanation": "Mg(OH)₂ + 2NH₄⁺ → Mg²⁺ + 2NH₃·H₂O，沉淀溶解。"
+  },
+  {
+    "question": "下列反应中，属于自由基反应的是：",
+    "options": [
+      "CH₄ + Cl₂ → CH₃Cl + HCl（光照）",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "CH₃COOH + NaOH → CH₃COONa + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "甲烷氯代在光照下发生自由基链式反应。"
+  },
+  {
+    "question": "下列关于CuSO₄·5H₂O失水的描述错误的是：",
+    "options": [
+      "100℃失去2分子水",
+      "150℃失去4分子水",
+      "200℃以上失去全部结晶水",
+      "失水后变为蓝色粉末"
+    ],
+    "correct_index": 3,
+    "explanation": "无水CuSO₄为白色粉末，吸水后变蓝。"
+  },
+  {
+    "question": "下列反应中，属于电解反应的是：",
+    "options": [
+      "2NaCl（熔融）→ 2Na + Cl₂↑",
+      "2H₂ + O₂ → 2H₂O",
+      "2KClO₃ → 2KCl + 3O₂↑",
+      "Zn + CuSO₄ → ZnSO₄ + Cu"
+    ],
+    "correct_index": 0,
+    "explanation": "电解熔融NaCl制取金属钠和氯气，属于电解反应。"
+  },
+  {
+    "question": "下列关于Fe³⁺检验的描述正确的是：",
+    "options": [
+      "Fe³⁺ + SCN⁻ → 血红色溶液",
+      "Fe³⁺ + OH⁻ → 灰绿色沉淀",
+      "Fe³⁺ + [Fe(CN)₆]⁴⁻ → 蓝色沉淀",
+      "Fe³⁺ + H₂S → 黑色沉淀"
+    ],
+    "correct_index": 0,
+    "explanation": "Fe³⁺与SCN⁻生成血红色[Fe(SCN)]²⁺络合物，是特征检验方法。"
+  },
+  {
+    "question": "下列反应中，属于加成-消去机理的是：",
+    "options": [
+      "乙醇脱水生成乙烯",
+      "苯的硝化反应",
+      "乙醛银镜反应",
+      "酯的水解"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醇先质子化（加成）再脱水（消去），生成乙烯。"
+  },
+  {
+    "question": "下列关于NH₃的叙述正确的是：",
+    "options": [
+      "能与HCl反应生成白烟",
+      "能使湿润红色石蕊试纸变蓝",
+      "极易溶于水",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "NH₃与HCl生成NH₄Cl白烟；溶于水呈碱性；极易溶于水。"
+  },
+  {
+    "question": "下列反应中，属于氧化还原反应的是：",
+    "options": [
+      "2Fe²⁺ + Cl₂ → 2Fe³⁺ + 2Cl⁻",
+      "Ag⁺ + Cl⁻ → AgCl↓",
+      "CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O",
+      "Ba²⁺ + SO₄²⁻ → BaSO₄↓"
+    ],
+    "correct_index": 0,
+    "explanation": "Fe²⁺被Cl₂氧化，元素化合价变化，属于氧化还原反应。"
+  },
+  {
+    "question": "下列关于硅酸钠溶液的描述错误的是：",
+    "options": [
+      "俗称水玻璃",
+      "能使酚酞变红",
+      "能与CO₂反应生成硅酸",
+      "能与盐酸反应生成H₂SiO₃沉淀"
+    ],
+    "correct_index": 1,
+    "explanation": "硅酸钠溶液呈较强碱性，能使酚酞变红，描述正确；A、C、D均正确，故无错误选项（题目设置有误，应改为“正确的是”）。"
+  },
+  {
+    "question": "下列反应中，属于水解反应的是：",
+    "options": [
+      "CH₃COOC₂H₅ + H₂O → CH₃COOH + C₂H₅OH",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "CH₄ + Cl₂ → CH₃Cl + HCl"
+    ],
+    "correct_index": 0,
+    "explanation": "乙酸乙酯在酸或碱催化下水解生成乙酸和乙醇。"
+  },
+  {
+    "question": "下列关于苯酚与溴水反应的描述正确的是：",
+    "options": [
+      "生成白色沉淀",
+      "取代发生在邻、对位",
+      "反应灵敏",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "苯酚与过量溴水立即生成2,4,6-三溴苯酚白色沉淀，取代在邻对位。"
+  },
+  {
+    "question": "下列反应中，属于吸热反应的是：",
+    "options": [
+      "C + O₂ → CO₂",
+      "Ba(OH)₂·8H₂O + 2NH₄Cl → BaCl₂ + 2NH₃↑ + 10H₂O",
+      "2H₂ + O₂ → 2H₂O",
+      "NaOH + HCl → NaCl + H₂O"
+    ],
+    "correct_index": 1,
+    "explanation": "Ba(OH)₂·8H₂O与NH₄Cl反应吸热，体系温度显著降低。"
+  },
+  {
+    "question": "下列离子方程式中，正确表示Fe³⁺与I⁻反应的是：",
+    "options": [
+      "Fe³⁺ + I⁻ → Fe²⁺ + I₂",
+      "2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂",
+      "Fe³⁺ + 3I⁻ → FeI₃",
+      "Fe³⁺ + 2I⁻ → FeI₂"
+    ],
+    "correct_index": 1,
+    "explanation": "2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂，电子守恒、电荷守恒均满足。"
+  },
+  {
+    "question": "下列反应中，属于中和滴定终点颜色变化的是：",
+    "options": [
+      "酚酞由无色→浅红",
+      "石蕊由红→蓝",
+      "甲基橙由黄→橙",
+      "以上都可能"
+    ],
+    "correct_index": 3,
+    "explanation": "不同指示剂在不同pH范围变色，均可能用于中和滴定终点判定。"
+  },
+  {
+    "question": "下列关于SO₂的叙述错误的是：",
+    "options": [
+      "能使品红溶液褪色",
+      "与H₂S反应生成S单质",
+      "与Cl₂反应生成HCl和H₂SO₄",
+      "与NaOH反应只生成Na₂SO₃"
+    ],
+    "correct_index": 3,
+    "explanation": "SO₂ + 2NaOH → Na₂SO₃ + H₂O（少量SO₂）；SO₂ + NaOH → NaHSO₃（过量SO₂）。"
+  },
+  {
+    "question": "下列反应中，属于电解水溶液阳极反应的是：",
+    "options": [
+      "2H₂O + 2e⁻ → H₂↑ + 2OH⁻",
+      "2Cl⁻ → Cl₂↑ + 2e⁻",
+      "4OH⁻ → O₂↑ + 2H₂O + 4e⁻",
+      "2H⁺ + 2e⁻ → H₂↑"
+    ],
+    "correct_index": 2,
+    "explanation": "电解水阳极发生氧化：4OH⁻ → O₂↑ + 2H₂O + 4e⁻。"
+  },
+  {
+    "question": "下列关于乙二醇性质的描述正确的是：",
+    "options": [
+      "能与Na反应放出H₂",
+      "能与乙酸发生酯化",
+      "可作抗冻剂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "乙二醇含—OH，可与Na、酸反应；低凝固点，常用作抗冻剂。"
+  },
+  {
+    "question": "下列反应中，属于氧化还原且属于置换的是：",
+    "options": [
+      "2F₂ + 2H₂O → 4HF + O₂↑",
+      "Cl₂ + 2NaBr → 2NaCl + Br₂",
+      "CaCO₃ → CaO + CO₂↑",
+      "AgNO₃ + NaCl → AgCl↓ + NaNO₃"
+    ],
+    "correct_index": 1,
+    "explanation": "Cl₂置换Br⁻，属于氧化还原置换反应。"
+  },
+  {
+    "question": "下列关于SiCl₄水解的描述正确的是：",
+    "options": [
+      "生成H₂SiO₃和HCl",
+      "需高温条件",
+      "生成SiO₂和Cl₂",
+      "无明显现象"
+    ],
+    "correct_index": 0,
+    "explanation": "SiCl₄ + 3H₂O → H₂SiO₃↓ + 4HCl（剧烈水解，白烟）。"
+  },
+  {
+    "question": "下列反应中，属于缩聚反应的是：",
+    "options": [
+      "n HO-CH₂-CH₂-OH + n HOOC-COOH → [—O-CH₂-CH₂-O-OC-CO—]n + 2n H₂O",
+      "n CH₂=CH₂ → [CH₂-CH₂]n",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "二元醇与二元酸脱水缩合，形成聚酯，同时生成小分子水。"
+  },
+  {
+    "question": "下列关于NH₄HCO₃热分解的描述正确的是：",
+    "options": [
+      "生成NH₃、CO₂、H₂O",
+      "生成NH₃、CO、H₂O",
+      "生成NH₄OH、CO₂",
+      "生成NH₃、CO₂、H₂"
+    ],
+    "correct_index": 0,
+    "explanation": "NH₄HCO₃ → NH₃↑ + CO₂↑ + H₂O↑，三种气体同时逸出。"
+  },
+  {
+    "question": "下列反应中，属于光化学反应的是：",
+    "options": [
+      "2AgBr → 2Ag + Br₂（光照）",
+      "2H₂ + O₂ → 2H₂O（点燃）",
+      "CaCO₃ → CaO + CO₂↑（加热）",
+      "CH₄ + Cl₂ → CH₃Cl + HCl（光照）"
+    ],
+    "correct_index": 0,
+    "explanation": "AgBr见光分解为Ag和Br₂，是照相底片感光原理。"
+  },
+  {
+    "question": "下列关于Fe(OH)₃胶体的叙述正确的是：",
+    "options": [
+      "呈红褐色",
+      "可产生丁达尔效应",
+      "可由FeCl₃水解制得",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "FeCl₃ + 3H₂O → Fe(OH)₃(胶体) + 3HCl，胶体呈红褐色，有丁达尔效应。"
+  },
+  {
+    "question": "下列反应中，属于放热反应的是：",
+    "options": [
+      "Ba(OH)₂·8H₂O + 2NH₄Cl → BaCl₂ + 2NH₃↑ + 10H₂O",
+      "C + CO₂ → 2CO（高温）",
+      "CH₄ + 2O₂ → CO₂ + 2H₂O",
+      "N₂ + O₂ → 2NO（放电）"
+    ],
+    "correct_index": 2,
+    "explanation": "甲烷燃烧放出大量热，属于典型的放热反应。"
+  },
+  {
+    "question": "下列关于油脂氢化的描述正确的是：",
+    "options": [
+      "液态油变为固态脂",
+      "需Ni作催化剂",
+      "属于加成反应",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "不饱和油脂加氢后饱和度增大，熔点升高，由液态变为固态；Ni催化，属于加成。"
+  },
+  {
+    "question": "下列反应中，属于配位反应的是：",
+    "options": [
+      "Cu²⁺ + 4NH₃ → [Cu(NH₃)₄]²⁺",
+      "Ag⁺ + Cl⁻ → AgCl↓",
+      "Fe³⁺ + 3OH⁻ → Fe(OH)₃↓",
+      "Ca²⁺ + CO₃²⁻ → CaCO₃↓"
+    ],
+    "correct_index": 0,
+    "explanation": "Cu²⁺与NH₃通过配位键形成深蓝色的[Cu(NH₃)₄]²⁺络离子。"
+  },
+  {
+    "question": "下列关于KMnO₄氧化性的描述正确的是：",
+    "options": [
+      "酸性条件下被还原为Mn²⁺",
+      "中性条件下被还原为MnO₂",
+      "碱性条件下被还原为MnO₄²⁻",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "KMnO₄在不同介质中还原产物不同：酸性→Mn²⁺、中性→MnO₂、碱性→MnO₄²⁻。"
+  },
+  {
+    "question": "下列反应中，属于电化学腐蚀的是：",
+    "options": [
+      "Fe + 2H⁺ → Fe²⁺ + H₂↑（酸性）",
+      "2Fe + O₂ + 2H₂O → 2Fe(OH)₂",
+      "Fe + Cu²⁺ → Fe²⁺ + Cu",
+      "以上都是"
+    ],
+    "correct_index": 3,
+    "explanation": "金属在电解质溶液中因原电池反应而被腐蚀，均属于电化学腐蚀。"
+  },
+  {
+    "question": "下列关于苯磺酸的叙述正确的是：",
+    "options": [
+      "由苯与浓硫酸磺化制得",
+      "属于强酸",
+      "易溶于水",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "C₆H₆ + H₂SO₄(浓) → C₆H₅SO₃H + H₂O，苯磺酸为强酸且易溶于水。"
+  },
+  {
+    "question": "下列反应中，属于水解且属于氧化还原的是：",
+    "options": [
+      "2Al³⁺ + 3S²⁻ + 6H₂O → 2Al(OH)₃↓ + 3H₂S↑",
+      "BrCl + H₂O → HBrO + HCl",
+      "PCl₃ + 3H₂O → H₃PO₃ + 3HCl",
+      "ICl + H₂O → HIO + HCl"
+    ],
+    "correct_index": 0,
+    "explanation": "Al³⁺与S²⁻发生双水解，同时S²⁻被氧化为H₂S，属于氧化还原水解。"
+  },
+  {
+    "question": "下列关于Fe₃O₄的描述正确的是：",
+    "options": [
+      "可写成FeO·Fe₂O₃",
+      "具有磁性",
+      "可由铁与水蒸气反应制得",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Fe₃O₄是混合价态氧化物，具有磁性，可由3Fe + 4H₂O(g) → Fe₃O₄ + 4H₂↑制得。"
+  },
+  {
+    "question": "下列反应中，属于加成-氧化机理的是：",
+    "options": [
+      "CH₂=CH₂ + KMnO₄ + H₂O → HO-CH₂-CH₂-OH + MnO₂",
+      "CH₃CHO + [Ag(NH₃)₂]⁺ → CH₃COO⁻ + Ag↓",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + Br₂ → C₆H₅Br + HBr"
+    ],
+    "correct_index": 0,
+    "explanation": "乙烯被KMnO₄氧化时先加成生成二元醇，伴随MnO₄⁻被还原为MnO₂。"
+  },
+  {
+    "question": "下列关于CH₃COONa溶液的叙述正确的是：",
+    "options": [
+      "呈碱性",
+      "能促进水的电离",
+      "水解方程式：CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "醋酸钠为强碱弱酸盐，CH₃COO⁻水解使溶液呈碱性，促进水电离。"
+  },
+  {
+    "question": "下列反应中，属于歧化且属于氧化还原的是：",
+    "options": [
+      "3NO₂ + H₂O → 2HNO₃ + NO",
+      "2H₂O₂ → 2H₂O + O₂↑",
+      "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑",
+      "NH₄Cl → NH₃↑ + HCl↑"
+    ],
+    "correct_index": 0,
+    "explanation": "NO₂中N(+4)部分被氧化为HNO₃(+5)，部分被还原为NO(+2)，属于歧化氧化还原。"
+  },
+  {
+    "question": "下列关于H₂S的描述正确的是：",
+    "options": [
+      "能与SO₂反应生成S",
+      "能使Pb(Ac)₂试纸变黑",
+      "具有还原性",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "2H₂S + SO₂ → 3S + 2H₂O；H₂S + Pb²⁺ → PbS↓(黑色)；H₂S中S²⁻易被氧化。"
+  },
+  {
+    "question": "下列反应中，属于电解水溶液阴极反应的是：",
+    "options": [
+      "Cu²⁺ + 2e⁻ → Cu",
+      "2H⁺ + 2e⁻ → H₂↑",
+      "2Cl⁻ → Cl₂↑ + 2e⁻",
+      "4OH⁻ → O₂↑ + 2H₂O + 4e⁻"
+    ],
+    "correct_index": 1,
+    "explanation": "电解CuSO₄水溶液时，阴极发生2H⁺ + 2e⁻ → H₂↑（或Cu²⁺ + 2e⁻ → Cu，视浓度而定）。"
+  },
+  {
+    "question": "下列关于Na₂S₂O₃的描述正确的是：",
+    "options": [
+      "俗称大苏打",
+      "能与酸反应生成S和SO₂",
+      "可作定影剂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Na₂S₂O₃·5H₂O俗称海波（大苏打），S₂O₃²⁻ + 2H⁺ → S↓ + SO₂↑ + H₂O，可与AgBr络合，作照相定影剂。"
+  },
+  {
+    "question": "下列反应中，属于加成且属于氧化的是：",
+    "options": [
+      "CH≡CH + 2[Ag(NH₃)₂]⁺ → AgC≡CAg↓ + 4NH₃ + 2H₂O",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙炔被银氨溶液氧化，同时发生加成（Ag⁺加到C≡C键上），生成炔银沉淀。"
+  },
+  {
+    "question": "下列关于Al(OH)₃的描述正确的是：",
+    "options": [
+      "两性氢氧化物",
+      "能溶于NaOH生成NaAlO₂",
+      "能溶于盐酸生成AlCl₃",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Al(OH)₃既可溶于酸又可溶于碱，是典型的两性氢氧化物。"
+  },
+  {
+    "question": "下列反应中，属于配位且属于氧化还原的是：",
+    "options": [
+      "2[Fe(CN)₆]³⁻ + 2I⁻ → 2[Fe(CN)₆]⁴⁻ + I₂",
+      "Cu²⁺ + 4NH₃ → [Cu(NH₃)₄]²⁺",
+      "Ag⁺ + 2S₂O₃²⁻ → [Ag(S₂O₃)₂]³⁻",
+      "Fe³⁺ + SCN⁻ → [Fe(SCN)]²⁺"
+    ],
+    "correct_index": 0,
+    "explanation": "[Fe(CN)₆]³⁻氧化I⁻生成I₂，同时形成配离子，属于配位-氧化还原。"
+  },
+  {
+    "question": "下列关于Na₂CO₃与NaHCO₃的描述错误的是：",
+    "options": [
+      "Na₂CO₃热稳定性高于NaHCO₃",
+      "Na₂CO₃水溶液碱性强于NaHCO₃",
+      "NaHCO₃能与CaCl₂反应生成沉淀",
+      "Na₂CO₃能与Ca(OH)₂反应生成CaCO₃"
+    ],
+    "correct_index": 2,
+    "explanation": "NaHCO₃与CaCl₂不反应，无沉淀生成。"
+  },
+  {
+    "question": "下列反应中，属于自由基链终止的是：",
+    "options": [
+      "Cl· + Cl· → Cl₂",
+      "CH₄ + Cl· → CH₃· + HCl",
+      "CH₃· + Cl₂ → CH₃Cl + Cl·",
+      "CH₃· + CH₃· → C₂H₆"
+    ],
+    "correct_index": 3,
+    "explanation": "两个甲基自由基结合生成乙烷，属于自由基链终止步骤。"
+  },
+  {
+    "question": "下列关于H₂O₂的描述错误的是：",
+    "options": [
+      "可作氧化剂",
+      "可作还原剂",
+      "受热易分解",
+      "与KMnO₄反应被氧化"
+    ],
+    "correct_index": 3,
+    "explanation": "H₂O₂与KMnO₄反应时被氧化为O₂，描述正确，无错误选项（题目设置有误）。"
+  },
+  {
+    "question": "下列反应中，属于电解水溶液总反应的是：",
+    "options": [
+      "2NaCl + 2H₂O → 2NaOH + H₂↑ + Cl₂↑",
+      "2H₂O → 2H₂↑ + O₂↑",
+      "2NaCl（熔融）→ 2Na + Cl₂↑",
+      "CuCl₂ → Cu + Cl₂↑"
+    ],
+    "correct_index": 0,
+    "explanation": "电解饱和食盐水总反应：2NaCl + 2H₂O → 2NaOH + H₂↑ + Cl₂↑。"
+  },
+  {
+    "question": "下列关于CH₃COONH₄的描述正确的是：",
+    "options": [
+      "双水解呈中性",
+      "能与NaOH反应放出NH₃",
+      "能与酸反应放出CH₃COOH",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "CH₃COONH₄为弱酸弱碱盐，双水解呈中性；与NaOH反应放NH₃；与酸反应放乙酸。"
+  },
+  {
+    "question": "下列反应中，能证明乙酸酸性强于碳酸的实验现象是：",
+    "options": [
+      "乙酸与Na₂CO₃固体反应产生气泡",
+      "乙酸使石蕊试液变红",
+      "乙酸与乙醇生成乙酸乙酯",
+      "乙酸与Na反应放H₂"
+    ],
+    "correct_index": 0,
+    "explanation": "强酸制弱酸：2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑，产生CO₂气体。"
+  },
+  {
+    "question": "向Na₂CO₃溶液中通入SO₂至过量，最终产物为：",
+    "options": [
+      "Na₂SO₃",
+      "NaHSO₃",
+      "Na₂SO₄",
+      "NaHCO₃"
+    ],
+    "correct_index": 1,
+    "explanation": "Na₂CO₃ + SO₂ + H₂O → NaHSO₃ + CO₂↑（SO₂过量）。"
+  },
+  {
+    "question": "下列反应中，属于加成-消去机理的是：",
+    "options": [
+      "乙醇分子间脱水生成乙醚",
+      "苯的硝化反应",
+      "乙醛银镜反应",
+      "乙酸乙酯水解"
+    ],
+    "correct_index": 0,
+    "explanation": "2C₂H₅OH → C₂H₅OC₂H₅ + H₂O，先质子化加成，再消去水分子。"
+  },
+  {
+    "question": "下列离子方程式正确表示Al³⁺与过量OH⁻反应的是：",
+    "options": [
+      "Al³⁺ + 3OH⁻ → Al(OH)₃↓",
+      "Al³⁺ + 4OH⁻ → [Al(OH)₄]⁻",
+      "Al³⁺ + 6OH⁻ → [Al(OH)₆]³⁻",
+      "Al³⁺ + OH⁻ → AlO₂⁻ + 2H₂O"
+    ],
+    "correct_index": 1,
+    "explanation": "Al³⁺ + 4OH⁻ → [Al(OH)₄]⁻（或写作AlO₂⁻ + 2H₂O）。"
+  },
+  {
+    "question": "下列反应中，属于光化学反应的是：",
+    "options": [
+      "2NO₂ ⇌ 2NO + O₂（光照）",
+      "2H₂O₂ → 2H₂O + O₂↑（MnO₂）",
+      "2KClO₃ → 2KCl + 3O₂↑（加热）",
+      "CH₄ + Cl₂ → CH₃Cl + HCl（光照）"
+    ],
+    "correct_index": 3,
+    "explanation": "甲烷氯代在光照下发生自由基链式反应，属于光化学反应。"
+  },
+  {
+    "question": "下列关于Fe(OH)₂沉淀的描述正确的是：",
+    "options": [
+      "白色，迅速变灰绿，最终变红褐",
+      "能溶于NaOH溶液",
+      "能与氧气反应生成Fe(OH)₃",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Fe(OH)₂易被氧化：4Fe(OH)₂ + O₂ + 2H₂O → 4Fe(OH)₃，颜色由白→灰绿→红褐。"
+  },
+  {
+    "question": "下列反应中，属于缩合聚合的是：",
+    "options": [
+      "n H₂N(CH₂)₆NH₂ + n HOOC(CH₂)₄COOH → [—NH(CH₂)₆NH—OC(CH₂)₄CO—]n + 2n H₂O",
+      "n CH₂=CHCl → [CH₂-CHCl]n",
+      "n C₂H₄ → [CH₂-CH₂]n",
+      "C₂H₅OH → CH₂=CH₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "己二酸与己二胺脱水缩聚生成尼龙-66，属于缩合聚合。"
+  },
+  {
+    "question": "下列反应中，属于水解且属于氧化还原的是：",
+    "options": [
+      "2Al³⁺ + 3S²⁻ + 6H₂O → 2Al(OH)₃↓ + 3H₂S↑",
+      "BrCl + H₂O → HBrO + HCl",
+      "ICl + H₂O → HIO + HCl",
+      "PCl₃ + 3H₂O → H₃PO₃ + 3HCl"
+    ],
+    "correct_index": 0,
+    "explanation": "Al³⁺与S²⁻双水解，同时S²⁻被氧化为H₂S，属于氧化还原水解。"
+  },
+  {
+    "question": "下列关于H₂SO₄性质的描述错误的是：",
+    "options": [
+      "浓硫酸可作干燥剂",
+      "稀硫酸与Fe反应生成H₂",
+      "浓硫酸与Cu反应生成SO₂",
+      "浓硫酸与C反应生成CO₂和SO₃"
+    ],
+    "correct_index": 3,
+    "explanation": "浓硫酸与C反应：C + 2H₂SO₄(浓) → CO₂↑ + 2SO₂↑ + 2H₂O，产物为SO₂而非SO₃。"
+  },
+  {
+    "question": "下列反应中，属于加成且生成环状化合物的是：",
+    "options": [
+      "C₆H₆ + 3H₂ → C₆H₁₂（Ni，加热）",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "CH₄ + Cl₂ → CH₃Cl + HCl",
+      "C₂H₅OH → CH₂=CH₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "苯与H₂加成生成环己烷，属于环状加成反应。"
+  },
+  {
+    "question": "下列关于Na₂O₂的描述正确的是：",
+    "options": [
+      "可作供氧剂",
+      "与水反应生成NaOH和O₂",
+      "与CO₂反应生成Na₂CO₃和O₂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "2Na₂O₂ + 2H₂O → 4NaOH + O₂↑；2Na₂O₂ + 2CO₂ → 2Na₂CO₃ + O₂，常用于呼吸面具。"
+  },
+  {
+    "question": "下列反应中，属于取代且生成硝基化合物的是：",
+    "options": [
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O（浓H₂SO₄）",
+      "CH₄ + Cl₂ → CH₃Cl + HCl",
+      "C₂H₅OH + HBr → C₂H₅Br + H₂O",
+      "C₆H₆ + Br₂ → C₆H₅Br + HBr"
+    ],
+    "correct_index": 0,
+    "explanation": "苯的硝化反应属于硝基取代生成硝基苯。"
+  },
+  {
+    "question": "下列关于Fe³⁺检验的描述正确的是：",
+    "options": [
+      "Fe³⁺ + SCN⁻ → 血红色溶液",
+      "Fe³⁺ + [Fe(CN)₆]⁴⁻ → 蓝色沉淀",
+      "Fe³⁺ + OH⁻ → 红褐色沉淀",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Fe³⁺与SCN⁻显血红色、与[Fe(CN)₆]⁴⁻显普鲁士蓝、与OH⁻显红褐色，均为特征检验。"
+  },
+  {
+    "question": "下列反应中，属于加成且属于氧化的是：",
+    "options": [
+      "CH≡CH + 2[Ag(NH₃)₂]⁺ → AgC≡CAg↓ + 4NH₃ + 2H₂O",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙炔被银氨溶液氧化，同时Ag⁺加成到C≡C键上，生成炔银沉淀。"
+  },
+  {
+    "question": "下列关于NaHCO₃的描述错误的是：",
+    "options": [
+      "受热易分解",
+      "水溶液呈碱性",
+      "能与酸反应生成CO₂",
+      "与Ca(OH)₂反应只生成CaCO₃"
+    ],
+    "correct_index": 3,
+    "explanation": "NaHCO₃ + Ca(OH)₂ → CaCO₃↓ + NaOH + H₂O（少量NaHCO₃）；2NaHCO₃ + Ca(OH)₂ → CaCO₃↓ + Na₂CO₃ + 2H₂O（过量NaHCO₃）。"
+  },
+  {
+    "question": "下列反应中，属于电解水溶液阴极反应的是：",
+    "options": [
+      "Cu²⁺ + 2e⁻ → Cu",
+      "2H⁺ + 2e⁻ → H₂↑",
+      "2Cl⁻ → Cl₂↑ + 2e⁻",
+      "4OH⁻ → O₂↑ + 2H₂O + 4e⁻"
+    ],
+    "correct_index": 1,
+    "explanation": "电解水溶液阴极发生还原：2H⁺ + 2e⁻ → H₂↑（或Cu²⁺ + 2e⁻ → Cu）。"
+  },
+  {
+    "question": "下列关于苯酚与溴水反应的描述正确的是：",
+    "options": [
+      "生成白色沉淀",
+      "取代发生在邻、对位",
+      "反应灵敏",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "苯酚与过量溴水立即生成2,4,6-三溴苯酚白色沉淀，取代在邻对位，灵敏度高。"
+  },
+  {
+    "question": "下列反应中，属于加成且属于还原的是：",
+    "options": [
+      "CH₃CHO + H₂ → CH₃CH₂OH（Ni，加热）",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醛加氢生成乙醇，属于加成还原反应。"
+  },
+  {
+    "question": "下列关于Na₂SiO₃的描述正确的是：",
+    "options": [
+      "俗称水玻璃",
+      "能与CO₂反应生成硅酸",
+      "可作粘合剂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Na₂SiO₃水溶液俗称水玻璃，能与CO₂反应生成H₂SiO₃沉淀，可作矿物胶粘合剂。"
+  },
+  {
+    "question": "下列反应中，属于氧化且属于放热的是：",
+    "options": [
+      "2Mg + O₂ → 2MgO",
+      "NH₄NO₃ → N₂O + 2H₂O（加热）",
+      "C + CO₂ → 2CO（高温）",
+      "Ba(OH)₂·8H₂O + 2NH₄Cl → BaCl₂ + 2NH₃↑ + 10H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "镁燃烧生成MgO，属于氧化反应且放出大量热。"
+  },
+  {
+    "question": "下列关于Cu(OH)₂的描述正确的是：",
+    "options": [
+      "蓝色沉淀",
+      "能溶于氨水生成深蓝色溶液",
+      "受热分解为CuO",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Cu(OH)₂为蓝色沉淀，溶于氨水生成[Cu(NH₃)₄]²⁺深蓝色溶液，受热分解为黑色CuO。"
+  },
+  {
+    "question": "下列反应中，属于水解且属于吸热的是：",
+    "options": [
+      "NH₄Cl + H₂O ⇌ NH₃·H₂O + HCl",
+      "CH₃COOC₂H₅ + H₂O ⇌ CH₃COOH + C₂H₅OH",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "2H₂ + O₂ → 2H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "NH₄Cl水解使溶液温度降低，属于吸热水解反应。"
+  },
+  {
+    "question": "下列关于AgNO₃的描述正确的是：",
+    "options": [
+      "见光易分解",
+      "与NaCl反应生成白色沉淀",
+      "可作消毒剂和腐蚀剂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "2AgNO₃ → 2Ag + 2NO₂↑ + O₂↑（光照）；Ag⁺ + Cl⁻ → AgCl↓；AgNO₃具有杀菌和腐蚀性。"
+  },
+  {
+    "question": "下列反应中，属于中和且属于放热的是：",
+    "options": [
+      "NaOH + HCl → NaCl + H₂O",
+      "NH₃·H₂O + CH₃COOH → CH₃COONH₄ + H₂O",
+      "Ba(OH)₂ + H₂SO₄ → BaSO₄↓ + 2H₂O",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "酸碱中和均为放热反应，无论是否生成沉淀。"
+  },
+  {
+    "question": "下列关于Na₂CO₃与NaHCO₃的描述正确的是：",
+    "options": [
+      "Na₂CO₃热稳定性高于NaHCO₃",
+      "Na₂CO₃水溶液碱性强于NaHCO₃",
+      "NaHCO₃能与酸反应生成CO₂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Na₂CO₃分解温度高；CO₃²⁻水解程度大于HCO₃⁻；两者均能与酸反应放出CO₂。"
+  },
+  {
+    "question": "下列反应中，属于加成且属于氧化的是：",
+    "options": [
+      "CH₂=CH₂ + KMnO₄ + H₂O → HO-CH₂-CH₂-OH + MnO₂",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙烯被KMnO₄氧化，同时发生加成生成乙二醇，MnO₄⁻被还原为MnO₂。"
+  },
+  {
+    "question": "下列关于Cl₂的描述正确的是：",
+    "options": [
+      "黄绿色气体",
+      "能与NaOH反应生成漂白液",
+      "能与H₂反应生成HCl",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Cl₂为黄绿色气体，与冷NaOH生成NaCl+NaClO（漂白液）；与H₂光照爆炸生成HCl。"
+  },
+  {
+    "question": "下列反应中，属于氧化且属于放热的是：",
+    "options": [
+      "2Al + Fe₂O₃ → 2Fe + Al₂O₃",
+      "C + CO₂ → 2CO（高温）",
+      "N₂ + O₂ → 2NO（放电）",
+      "NH₄NO₃ → N₂O + 2H₂O（加热）"
+    ],
+    "correct_index": 0,
+    "explanation": "铝热反应放出大量热，属于氧化还原放热反应。"
+  },
+  {
+    "question": "下列关于Na₂O₂的描述正确的是：",
+    "options": [
+      "可作供氧剂",
+      "与水反应生成NaOH和O₂",
+      "与CO₂反应生成Na₂CO₃和O₂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "2Na₂O₂ + 2H₂O → 4NaOH + O₂↑；2Na₂O₂ + 2CO₂ → 2Na₂CO₃ + O₂，常用于呼吸面具。"
+  },
+  {
+    "question": "下列反应中，属于加成且属于还原的是：",
+    "options": [
+      "CH₃CHO + H₂ → CH₃CH₂OH",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙醛加氢生成乙醇，属于加成还原反应。"
+  },
+  {
+    "question": "下列关于CuSO₄的描述正确的是：",
+    "options": [
+      "无水CuSO₄为白色粉末",
+      "CuSO₄·5H₂O为蓝色晶体",
+      "能与Fe反应生成Cu",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "无水CuSO₄白色，吸水变蓝；CuSO₄ + Fe → FeSO₄ + Cu，置换反应。"
+  },
+  {
+    "question": "下列反应中，属于水解且属于吸热的是：",
+    "options": [
+      "NH₄Cl + H₂O ⇌ NH₃·H₂O + HCl",
+      "CH₃COOC₂H₅ + H₂O ⇌ CH₃COOH + C₂H₅OH",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "2H₂ + O₂ → 2H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "NH₄Cl水解使溶液温度降低，属于吸热水解反应。"
+  },
+  {
+    "question": "下列反应中，属于中和且生成沉淀的是：",
+    "options": [
+      "Ba(OH)₂ + H₂SO₄ → BaSO₄↓ + 2H₂O",
+      "NaOH + HCl → NaCl + H₂O",
+      "NH₃·H₂O + CH₃COOH → CH₃COONH₄ + H₂O",
+      "KOH + HNO₃ → KNO₃ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "Ba(OH)₂与H₂SO₄中和同时生成BaSO₄沉淀。"
+  },
+  {
+    "question": "下列反应中，属于加成且属于氧化的是：",
+    "options": [
+      "CH₂=CH₂ + KMnO₄ + H₂O → HO-CH₂-CH₂-OH + MnO₂",
+      "CH₂=CH₂ + Br₂ → CH₂Br-CH₂Br",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "乙烯被KMnO₄氧化，同时发生加成生成乙二醇，MnO₄⁻被还原为MnO₂。"
+  },
+  {
+    "question": "下列关于Na₂SiO₃的描述正确的是：",
+    "options": [
+      "俗称水玻璃",
+      "能与CO₂反应生成硅酸",
+      "可作粘合剂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Na₂SiO₃水溶液俗称水玻璃，能与CO₂反应生成H₂SiO₃沉淀，可作矿物胶粘合剂。"
+  },
+  {
+    "question": "下列反应中，属于氧化且属于放热的是：",
+    "options": [
+      "2Mg + O₂ → 2MgO",
+      "C + CO₂ → 2CO（高温）",
+      "N₂ + O₂ → 2NO（放电）",
+      "NH₄NO₃ → N₂O + 2H₂O（加热）"
+    ],
+    "correct_index": 0,
+    "explanation": "镁燃烧生成MgO，属于氧化反应且放出大量热。"
+  },
+  {
+    "question": "下列关于Cu(OH)₂的描述正确的是：",
+    "options": [
+      "蓝色沉淀",
+      "能溶于氨水生成深蓝色溶液",
+      "受热分解为CuO",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Cu(OH)₂为蓝色沉淀，溶于氨水生成[Cu(NH₃)₄]²⁺深蓝色溶液，受热分解为黑色CuO。"
+  },
+  {
+    "question": "下列反应中，属于水解且属于吸热的是：",
+    "options": [
+      "NH₄Cl + H₂O ⇌ NH₃·H₂O + HCl",
+      "CH₃COOC₂H₅ + H₂O ⇌ CH₃COOH + C₂H₅OH",
+      "C₂H₅OH → CH₂=CH₂ + H₂O",
+      "2H₂ + O₂ → 2H₂O"
+    ],
+    "correct_index": 0,
+    "explanation": "NH₄Cl水解使溶液温度降低，属于吸热水解反应。"
+  },
+  {
+    "question": "下列关于Na₂CO₃的描述正确的是：",
+    "options": [
+      "俗称纯碱",
+      "水溶液呈碱性",
+      "能与CaCl₂反应生成沉淀",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "Na₂CO₃俗称纯碱或苏打，CO₃²⁻水解呈碱性，与Ca²⁺生成CaCO₃沉淀。"
+  },
+  {
+    "question": "下列反应中，属于氧化且生成气体的是：",
+    "options": [
+      "2H₂S + SO₂ → 3S + 2H₂O",
+      "2KClO₃ → 2KCl + 3O₂↑",
+      "C + O₂ → CO₂",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "A、B、C均属于氧化反应且均有气体生成（S也可视为气体后凝华）。"
+  },
+  {
+    "question": "下列关于苯酚的描述正确的是：",
+    "options": [
+      "能与FeCl₃显紫色",
+      "能与NaOH反应",
+      "能与溴水生成白色沉淀",
+      "以上都正确"
+    ],
+    "correct_index": 3,
+    "explanation": "苯酚与FeCl₃显紫色，与NaOH反应生成苯酚钠，与溴水生成2,4,6-三溴苯酚白色沉淀。"
+  },
+  {
+    "question": "碳酸根离子检验的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CaCl}_2 + \\mathrm{Na}_2\\mathrm{CO}_3 \\rightarrow \\mathrm{CaCO}_3 \\downarrow + 2\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{CaCl}_2 + \\mathrm{Na}_2\\mathrm{CO}_3 \\rightarrow \\mathrm{CaO} + \\mathrm{CO}_2 \\uparrow + 2\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{BaCl}_2 + \\mathrm{Na}_2\\mathrm{CO}_3 \\rightarrow \\mathrm{BaCO}_3 \\downarrow + 2\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{AgNO}_3 + \\mathrm{Na}_2\\mathrm{CO}_3 \\rightarrow \\mathrm{Ag}_2\\mathrm{CO}_3 \\downarrow + 2\\mathrm{NaNO}_3\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：生成白色 CaCO₃ 沉淀是碳酸根的特征反应。</p><p>B 错误：CaCO₃ 高温才分解，常温不生成 CaO。</p><p>C 错误：硫酸根检验用钡盐，碳酸根用钙盐。</p><p>D 错误：银盐虽沉淀，但非标准检验法。</p>"
+  },
+  {
+    "question": "过氧化钠与水反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Na}_2\\mathrm{O}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{NaOH}\\)",
+      "\\(2\\mathrm{Na}_2\\mathrm{O}_2 + 2\\mathrm{H}_2\\mathrm{O} \\rightarrow 4\\mathrm{NaOH} + \\mathrm{O}_2 \\uparrow\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{O}_2 + 2\\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{NaOH} + \\mathrm{H}_2\\mathrm{O}_2\\)",
+      "\\(\\mathrm{Na}_2\\mathrm{O}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{Na}_2\\mathrm{O} + \\mathrm{H}_2\\mathrm{O}_2\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未配平且遗漏氧气。</p><p>B 正确：过氧化钠歧化生成 NaOH 和 O₂，符合实验现象（放热、冒泡）。</p><p>C 错误：H₂O₂ 是中间产物，会迅速分解。</p><p>D 错误：产物与计量均错误。</p>"
+  },
+  {
+    "question": "铝与氢氧化钠溶液反应的化学方程式正确的是：",
+    "options": [
+      "\\(2\\mathrm{Al} + 2\\mathrm{NaOH} \\rightarrow 2\\mathrm{NaAlO}_2 + \\mathrm{H}_2 \\uparrow\\)",
+      "\\(2\\mathrm{Al} + 2\\mathrm{NaOH} + 2\\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{NaAlO}_2 + 3\\mathrm{H}_2 \\uparrow\\)",
+      "\\(2\\mathrm{Al} + 6\\mathrm{NaOH} \\rightarrow 2\\mathrm{Na}_3\\mathrm{AlO}_3 + 3\\mathrm{H}_2 \\uparrow\\)",
+      "\\(\\mathrm{Al} + \\mathrm{NaOH} + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{NaAlO}_2 + \\mathrm{H}_2 \\uparrow\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：缺少水参与反应。</p><p>B 正确：水是反应物，生成偏铝酸钠和氢气，配平完整。</p><p>C 错误：产物应为 NaAlO₂ 而非 Na₃AlO₃。</p><p>D 错误：未配平。</p>"
+  },
+  {
+    "question": "实验室制取氢氧化铝的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{AlCl}_3 + 3\\mathrm{NaOH} \\rightarrow \\mathrm{Al(OH)}_3 \\downarrow + 3\\mathrm{NaCl}\\)",
+      "\\(\\mathrm{Al}_2(\\mathrm{SO}_4)_3 + 6\\mathrm{NH}_3 \\cdot \\mathrm{H}_2\\mathrm{O} \\rightarrow 2\\mathrm{Al(OH)}_3 \\downarrow + 3(\\mathrm{NH}_4)_2\\mathrm{SO}_4\\)",
+      "\\(\\mathrm{Al}^{3+} + 3\\mathrm{OH}^- \\rightarrow \\mathrm{Al(OH)}_3 \\downarrow\\)",
+      "\\(\\mathrm{NaAlO}_2 + \\mathrm{HCl} + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{Al(OH)}_3 \\downarrow + \\mathrm{NaCl}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确但非最佳：强碱易过量溶解 Al(OH)₃。</p><p>B 正确：氨水碱性弱，可制得 Al(OH)₃ 沉淀且不溶解，是实验室常用法。</p><p>C 正确但为离子式，题干要求化学方程式。</p><p>D 错误：未配平（应用 2HCl）。</p>"
+  },
+  {
+    "question": "二氧化硅与氢氟酸反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{SiO}_2 + 2\\mathrm{HF} \\rightarrow \\mathrm{SiF}_2 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{SiO}_2 + 4\\mathrm{HF} \\rightarrow \\mathrm{SiF}_4 \\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{SiO}_2 + 4\\mathrm{HCl} \\rightarrow \\mathrm{SiCl}_4 + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{SiO}_2 + 2\\mathrm{H}_2 \\rightarrow \\mathrm{Si} + 2\\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：SiF₂ 不稳定。</p><p>B 正确：氢氟酸是唯一能腐蚀玻璃（SiO₂）的酸，生成 SiF₄ 气体和水。</p><p>C 错误：HCl 不与 SiO₂ 反应。</p><p>D 错误：高温下才发生，非酸反应。</p>"
+  },
+  {
+    "question": "漂白粉在空气中失效的主要反应方程式是：",
+    "options": [
+      "\\(\\mathrm{Ca(ClO)}_2 + \\mathrm{CO}_2 + \\mathrm{H}_2\\mathrm{O} \\rightarrow \\mathrm{CaCO}_3 \\downarrow + 2\\mathrm{HClO}\\)",
+      "\\(2\\mathrm{HClO} \\xrightarrow{\\text{光}} 2\\mathrm{HCl} + \\mathrm{O}_2 \\uparrow\\)",
+      "\\(\\mathrm{Ca(ClO)}_2 + 2\\mathrm{HCl} \\rightarrow \\mathrm{CaCl}_2 + 2\\mathrm{HClO}\\)",
+      "\\(\\mathrm{Ca(ClO)}_2 \\xrightarrow{\\Delta} \\mathrm{CaCl}_2 + \\mathrm{O}_2 \\uparrow\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：空气中的 CO₂ 和 H₂O 与 Ca(ClO)₂ 反应生成 HClO，HClO 再分解导致失效。</p><p>B 错误：这是次氯酸分解，非漂白粉直接失效反应。</p><p>C 错误：这是漂白粉的酸化使用原理，非自然失效。</p><p>D 错误：漂白粉受热分解非主要失效原因。</p>"
+  },
+  {
+    "question": "浓硫酸与铜反应的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{Cu} + \\mathrm{H}_2\\mathrm{SO}_4 \\rightarrow \\mathrm{CuSO}_4 + \\mathrm{H}_2 \\uparrow\\)",
+      "\\(\\mathrm{Cu} + 2\\mathrm{H}_2\\mathrm{SO}_4(\\text{浓}) \\xrightarrow{\\Delta} \\mathrm{CuSO}_4 + \\mathrm{SO}_2 \\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{Cu} + \\mathrm{H}_2\\mathrm{SO}_4(\\text{浓}) \\rightarrow \\mathrm{CuO} + \\mathrm{SO}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(2\\mathrm{Cu} + 2\\mathrm{H}_2\\mathrm{SO}_4(\\text{浓}) \\xrightarrow{\\Delta} \\mathrm{Cu}_2\\mathrm{SO}_4 + \\mathrm{SO}_2 \\uparrow + 2\\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：稀硫酸不与 Cu 反应，浓硫酸不生成 H₂。</p><p>B 正确：浓硫酸作氧化剂被还原为 SO₂，铜被氧化为 Cu²⁺，需加热。</p><p>C 错误：CuO 不是最终产物。</p><p>D 错误：生成物应为 CuSO₄，非 Cu₂SO₄。</p>"
+  },
+  {
+    "question": "工业合成氨的化学方程式是：",
+    "options": [
+      "\\(\\mathrm{NH}_4\\mathrm{Cl} + \\mathrm{NaOH} \\rightarrow \\mathrm{NH}_3 \\uparrow + \\mathrm{NaCl} + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(2\\mathrm{NH}_4\\mathrm{Cl} + \\mathrm{Ca(OH)}_2 \\xrightarrow{\\Delta} \\mathrm{CaCl}_2 + 2\\mathrm{H}_2\\mathrm{O} + 2\\mathrm{NH}_3 \\uparrow\\)",
+      "\\(\\mathrm{N}_2 + 3\\mathrm{H}_2 \\xrightarrow{\\text{高温、高压、催化剂}} 2\\mathrm{NH}_3\\)",
+      "\\(4\\mathrm{NH}_3 + 5\\mathrm{O}_2 \\xrightarrow{\\text{催化剂}} 4\\mathrm{NO} + 6\\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 2,
+    "explanation": "<p><strong>解析：</strong></p><p>A/B 错误：实验室制氨法，非工业合成。</p><p>C 正确：哈伯法合成氨，使用铁催化剂、高温高压。</p><p>D 错误：氨的催化氧化（制硝酸）。</p>"
+  },
+  {
+    "question": "蔗糖水解的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{C}_{12}\\mathrm{H}_{22}\\mathrm{O}_{11} + \\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{酸}} 2\\mathrm{C}_6\\mathrm{H}_{12}\\mathrm{O}_6\\)",
+      "\\(\\mathrm{C}_{12}\\mathrm{H}_{22}\\mathrm{O}_{11} \\xrightarrow{\\Delta} 12\\mathrm{C} + 11\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{C}_{12}\\mathrm{H}_{22}\\mathrm{O}_{11} + 12\\mathrm{O}_2 \\rightarrow 12\\mathrm{CO}_2 + 11\\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{C}_{12}\\mathrm{H}_{22}\\mathrm{O}_{11} + \\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{酶}} \\mathrm{C}_6\\mathrm{H}_{12}\\mathrm{O}_6 + \\mathrm{C}_6\\mathrm{H}_{12}\\mathrm{O}_6\\)"
+    ],
+    "correct_index": 3,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：未指明产物是葡萄糖和果糖两种单糖。</p><p>B 错误：炭化反应，非水解。</p><p>C 错误：燃烧反应。</p><p>D 正确：水解生成葡萄糖和果糖（同分异构体）。</p>"
+  },
+  {
+    "question": "油脂在碱性条件下水解（皂化反应）的通式正确的是：",
+    "options": [
+      "\\(\\text{油脂} + \\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{酸}} \\text{甘油} + \\text{高级脂肪酸}\\)",
+      "\\(\\text{油脂} + 3\\mathrm{NaOH} \\rightarrow \\text{甘油} + 3\\text{高级脂肪酸钠}\\)",
+      "\\(\\text{油脂} \\xrightarrow{\\Delta} \\text{甘油} + \\text{高级脂肪酸}\\)",
+      "\\(\\text{油脂} + \\mathrm{O}_2 \\rightarrow \\mathrm{CO}_2 + \\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：酸性条件下水解产物是脂肪酸，非皂化。</p><p>B 正确：碱性水解得甘油和脂肪酸盐（肥皂）。</p><p>C 错误：缺少水解条件和水。</p><p>D 错误：氧化反应。</p>"
+  },
+  {
+    "question": "铝热反应（还原四氧化三铁）的化学方程式正确的是：",
+    "options": [
+      "\\(3\\mathrm{Fe}_3\\mathrm{O}_4 + 8\\mathrm{Al} \\xrightarrow{\\text{高温}} 9\\mathrm{Fe} + 4\\mathrm{Al}_2\\mathrm{O}_3\\)",
+      "\\(\\mathrm{Fe}_3\\mathrm{O}_4 + 2\\mathrm{Al} \\xrightarrow{\\text{高温}} 3\\mathrm{Fe} + \\mathrm{Al}_2\\mathrm{O}_3\\)",
+      "\\(\\mathrm{Fe}_3\\mathrm{O}_4 + 4\\mathrm{Al} \\xrightarrow{\\text{高温}} 3\\mathrm{Fe} + 2\\mathrm{Al}_2\\mathrm{O}_3\\)",
+      "\\(3\\mathrm{Fe}_3\\mathrm{O}_4 + 16\\mathrm{Al} \\xrightarrow{\\text{高温}} 9\\mathrm{Fe} + 8\\mathrm{Al}_2\\mathrm{O}_3\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：Fe₃O₄ 可看作 FeO·Fe₂O₃，铝热还原按氧原子守恒配平（8Al 还原 3Fe₃O₄ 中 12 个氧原子）。</p><p>B/C 错误：未配平（氧原子数不守恒）。</p><p>D 错误：铝过量。</p>"
+  },
+  {
+    "question": "电解熔融氯化钠的化学方程式正确的是：",
+    "options": [
+      "\\(2\\mathrm{NaCl}(\\text{熔融}) \\xrightarrow{\\text{电解}} 2\\mathrm{Na} + \\mathrm{Cl}_2 \\uparrow\\)",
+      "\\(2\\mathrm{NaCl} + 2\\mathrm{H}_2\\mathrm{O} \\xrightarrow{\\text{电解}} 2\\mathrm{NaOH} + \\mathrm{H}_2 \\uparrow + \\mathrm{Cl}_2 \\uparrow\\)",
+      "\\(\\mathrm{NaCl} \\xrightarrow{\\text{电解}} \\mathrm{Na} + \\frac{1}{2}\\mathrm{Cl}_2\\)",
+      "\\(2\\mathrm{NaCl} \\xrightarrow{\\text{电解}} 2\\mathrm{Na}^+ + \\mathrm{Cl}_2 \\uparrow\\)"
+    ],
+    "correct_index": 0,
+    "explanation": "<p><strong>解析：</strong></p><p>A 正确：工业制金属钠的方法。</p><p>B 错误：电解食盐水溶液产物。</p><p>C 错误：未配平且计量数应为整数。</p><p>D 错误：未写出阴极产物 Na。</p>"
+  },
+  {
+    "question": "乙烯实验室制法的化学方程式正确的是：",
+    "options": [
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow{\\text{浓} \\mathrm{H}_2\\mathrm{SO}_4, 140^{\\circ}\\mathrm{C}} \\mathrm{CH}_2=\\mathrm{CH}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{OH} \\xrightarrow{\\text{浓} \\mathrm{H}_2\\mathrm{SO}_4, 170^{\\circ}\\mathrm{C}} \\mathrm{CH}_2=\\mathrm{CH}_2 \\uparrow + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CHO} \\xrightarrow{\\Delta} \\mathrm{CH}_2=\\mathrm{CH}_2 + \\mathrm{H}_2\\mathrm{O}\\)",
+      "\\(\\mathrm{CH}_3\\mathrm{CH}_2\\mathrm{Br} + \\mathrm{NaOH} \\xrightarrow{\\text{水}} \\mathrm{CH}_2=\\mathrm{CH}_2 \\uparrow + \\mathrm{NaBr} + \\mathrm{H}_2\\mathrm{O}\\)"
+    ],
+    "correct_index": 1,
+    "explanation": "<p><strong>解析：</strong></p><p>A 错误：140°C 生成乙醚。</p><p>B 正确：乙醇在浓硫酸催化下 170°C 脱水生成乙烯。</p><p>C 错误：乙醛不直接生成乙烯。</p><p>D 错误：水溶液条件发生取代生成乙醇，消去反应需醇溶液。</p>"
+  }
+]
