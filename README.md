@@ -10,13 +10,13 @@
 ---
 
 ## 📌 目录
-- [功能特性](#功能特性)
-- [界面预览](#界面预览)
-- [安装与使用](#安装与使用)
-- [技术栈](#技术栈)
-- [项目结构](#项目结构)
-- [贡献指南](#贡献指南)
-- [许可证](#许可证)
+- [功能特性](#-功能特性)
+- [界面预览](#-界面预览)
+- [安装与使用](#-安装与使用)
+- [技术栈](#%EF%B8%8F-技术栈)
+- [项目结构](#-项目结构)
+- [贡献指南](#-贡献指南)
+- [许可证](#-许可证)
 
 ---
 
@@ -26,7 +26,7 @@
 | 🎯 **智能练习** | 随机抽取方程式选择题，提交后即时评分与解析 |
 | 📚 **分类学习** | 按「化合、分解、置换、复分解」等反应类型系统学习 |
 | 🧮 **LaTeX渲染** | 无缝集成 MathJax，完美呈现化学式与数学公式 |
-| 📊 **进度追踪** | 动态进度条 & 成就徽章，随时掌握学习效果 |
+| 📊 **进度追踪** | 动态进度条，随时掌握学习效果 |
 | 🪟 **多窗口** | 主控面板 + 多子窗口，支持并行练习与查阅 |
 
 ---
@@ -35,7 +35,7 @@
 
 | 主面板 | 练习模式 | 分类浏览 |
 |---------|-----------|----------|
-| ![main](README_img/screenshot_main.png) | ![quiz](README_img/screenshot_quiz.png) | ![browse](README_img/screenshot_browse.png) |
+| ![main](README_img/screenshot_main.png) | ![quiz](README_img/screenshot_quiz.png) | ![equation](README_img/screenshot_browse.png) |
 
 ---
 
@@ -87,7 +87,7 @@ makensis Cheqory_Installer.nsi
 |---|---|---|---|
 | 语言 | Python | 3.9+ | 主要逻辑 |
 | GUI | PyQt5 | 5.15+ | 跨平台图形界面 |
-| 渲染 | MathJax | 3.2+ | 化学/数学公式高质量渲染 |
+| 渲染 | MathJax(mhchem扩展) | 3.2+ | 化学/数学公式高质量渲染 |
 | 数据存储 | JSON | 内置 | 题库与化学知识点存储 |
 | 打包 | PyInstaller | 5.6+ | 生成 Windows 可执行文件 |
 | 安装 | NSIS | 3.08+ | 制作一键安装程序 |
@@ -97,29 +97,30 @@ makensis Cheqory_Installer.nsi
 ## 📁 项目结构
 ```
 Cheqory/
-├── resources/                # 静态资源
-│   ├── img/                  # 图标、按钮、背景
-│   ├── sql/                  # SQLite 题库与配置
-│   └── logo.ico              # 应用图标
-├── mathjax/                  # MathJax 离线渲染引擎
-├── common/                   # 公共模块（数据库/配置/工具函数）
-├── ui/                       # Qt Designer 生成的 .ui 文件
-├── main_control.py           # 入口 & 主窗口控制
-├── quiz_app.py               # 练习模式业务逻辑
-├── browse_app.py             # 分类浏览业务逻辑
-├── logo.ico                  # 打包时使用的图标
-├── Cheqory.spec              # PyInstaller 打包配置
-├── Cheqory_Installer.nsi     # NSIS 安装程序配置
-├── requirements.txt          # Python 依赖
-├── README.md                 # 项目说明
-└── LICENSE                   # Apache-2.0 许可证
+├── resources/                    # 静态资源
+│   ├── img/                      # 图标、按钮、背景
+│   ├── sql/                      # 题库与化学知识点存储
+│   │    ├── questions.json       # 题库
+│   │    └── equation_data.json   # 化学知识点
+│   └── logo.ico                  # 应用图标
+├── mathjax/                      # MathJax 离线渲染引擎
+├── common/                       # 公共模块（数据库/配置/工具函数）
+├── main_control.py               # 入口 & 主窗口控制
+├── quiz_app.py                   # 练习模式业务逻辑
+├── equation_app.py               # 分类浏览业务逻辑
+├── logo.ico                      # 打包时使用的图标
+├── Cheqory.spec                  # PyInstaller 打包配置
+├── Cheqory_Installer.nsi         # NSIS 安装程序配置
+├── requirements.txt              # Python 依赖
+├── README.md                     # 项目说明
+└── LICENSE                       # Apache-2.0 许可证
 ```
 
 额外开发测试：
 
 ```
 ├── quiz_app_test.py               # 测试练习模式业务逻辑
-├── browse_app_test.py             # 测试分类浏览业务逻辑
+├── equation_app_test.py           # 测试分类浏览业务逻辑
 ```
 
 ---
@@ -139,7 +140,7 @@ Cheqory/
 ---
 
 ## 🔗 相关链接
-- [📖 开发文档 Wiki](https://github.com/Aurorp1g/Cheqory/wiki)  
+
 - [🐛 问题反馈](https://github.com/Aurorp1g/Cheqory/issues)  
 - [⭐ 给我点个 Star](https://github.com/Aurorp1g/Cheqory)  
 
