@@ -3,7 +3,7 @@ import json
 import random 
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import (QLabel, QPushButton, QRadioButton, QButtonGroup,QVBoxLayout,QDialog,
-                             QMessageBox, QHBoxLayout, QProgressBar)
+                             QMessageBox, QHBoxLayout, QProgressBar, QApplication)
 from PyQt5.QtCore import Qt, QUrl
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 from common.base_app import BaseApp
@@ -36,9 +36,12 @@ class ChemistryQuizApp(BaseApp):
         ) for data in data_list]
 
     def __init__(self, question_count):
-        super().__init__("化学方程式选择题练习", 1575, 950)
-        self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)  # 移除最大化按钮
-        self.setFixedSize(self.size())  # 固定窗口尺寸，禁止调整大小
+        screen = QApplication.desktop().screenGeometry()
+        width = int(screen.width() * 0.6)
+        height = int(screen.height() * 0.6)
+        super().__init__("化学方程式选择题练习", width, height)
+        #self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)  # 移除最大化按钮
+        #self.setFixedSize(self.size())  # 固定窗口尺寸，禁止调整大小
         icon_path = os.path.join(os.path.dirname(__file__), "resources", "logo.ico")
         self.setWindowIcon(QIcon(icon_path))
         self.question_count = question_count

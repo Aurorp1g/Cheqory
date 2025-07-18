@@ -1,7 +1,7 @@
 import sys
 import os
 from PyQt5.QtWidgets import QApplication, QPushButton, QMessageBox
-from PyQt5.QtGui import QIcon ,QColor
+from PyQt5.QtGui import QIcon ,QColor, QPalette, QBrush, QImage
 from PyQt5.QtCore import Qt 
 from PyQt5.QtWidgets import QInputDialog 
 from common.base_app import BaseApp
@@ -10,32 +10,30 @@ from equation_app import EquationStudyApp
 
 class MainControlPanel(BaseApp):
     def __init__(self):
-        super().__init__("开始学习化学啦！！！", 1575, 950)
+        screen = QApplication.desktop().screenGeometry()
+        width = int(screen.width() * 0.6)
+        height = int(screen.height() * 0.6)
+        super().__init__("开始学习化学啦！！！", width, height)
         # 禁用最大化按钮并固定窗口大小（防止全屏）
-        self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)  # 移除最大化按钮
-        self.setFixedSize(self.size())  # 固定窗口尺寸，禁止调整大小
+        #self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)  # 移除最大化按钮
+        #self.setFixedSize(self.size())  # 固定窗口尺寸，禁止调整大小
         # 原有代码保持不变
         icon_path = os.path.join(os.path.dirname(__file__), "resources", "logo.ico")
         self.setWindowIcon(QIcon(icon_path))
         self._init_ui()
 
     def _init_ui(self):
-        # 背景图片路径（原有代码保持不变）
         bg_dir = os.path.join(os.path.dirname(__file__), "resources")
         bg_filename = "background.png"
         bg_path = os.path.join(bg_dir, bg_filename)
         
-        # 检查文件是否存在（原有代码保持不变）
         if not os.path.isfile(bg_path):
             QMessageBox.warning(self, "错误", f"未找到背景图片文件：{bg_path}")
             return
 
-        # 使用QPalette设置背景（原有代码优化）
-        from PyQt5.QtGui import QPalette, QBrush, QImage
-        palette = QPalette()
-        bg_image = QImage(bg_path).scaled(self.size(), Qt.KeepAspectRatioByExpanding)  # 保持比例扩展
-        palette.setBrush(QPalette.Background, QBrush(bg_image))
-        self.setPalette(palette)  # 应用调色板到窗口
+        # 存储背景路径并初始化
+        self.bg_path = bg_path
+        self.update_background()
 
         # 主界面按钮样式（QSS兼容版）
         btn_style = """
@@ -113,6 +111,23 @@ class MainControlPanel(BaseApp):
     def start_equation_study(self):
         self.equation_window = EquationStudyApp()
         self.equation_window.show()
+
+    # 新增窗口大小变化事件处理
+    def resizeEvent(self, event):
+        """处理窗口缩放事件"""
+        super().resizeEvent(event)
+        self.update_background()
+
+    def update_background(self):
+        """更新背景图片缩放"""
+        palette = QPalette()
+        bg_image = QImage(self.bg_path).scaled(
+            self.size(), 
+            Qt.KeepAspectRatioByExpanding,
+            Qt.SmoothTransformation  # 添加平滑缩放
+        )
+        palette.setBrush(QPalette.Background, QBrush(bg_image))
+        self.setPalette(palette)
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

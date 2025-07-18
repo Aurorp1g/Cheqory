@@ -2,8 +2,8 @@ import os
 import json
 
 from PyQt5.QtGui import QIcon, QColor
-from PyQt5.QtWidgets import QHBoxLayout,QPushButton, QComboBox
-from PyQt5.QtCore import QUrl,Qt
+from PyQt5.QtWidgets import QHBoxLayout,QPushButton, QComboBox, QApplication, QGraphicsDropShadowEffect
+from PyQt5.QtCore import QUrl
 from PyQt5.QtWebEngineWidgets import QWebEngineView
 from common.base_app import BaseApp
 from common.config import MATHJAX_PATH, render_mathjax
@@ -16,9 +16,12 @@ class ChemistryCategory:
 
 class EquationStudyApp(BaseApp):
     def __init__(self):
-        super().__init__("化学方程式背诵", 1575, 950)
-        self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)  # 移除最大化按钮
-        self.setFixedSize(self.size())  # 固定窗口尺寸，禁止调整大小
+        screen = QApplication.desktop().screenGeometry()
+        width = int(screen.width() * 0.6)
+        height = int(screen.height() * 0.6)
+        super().__init__("化学方程式背诵", width, height)
+        #self.setWindowFlags(self.windowFlags() & ~Qt.WindowMaximizeButtonHint)  # 移除最大化按钮
+        #self.setFixedSize(self.size())  # 固定窗口尺寸，禁止调整大小
         icon_path = os.path.join(os.path.dirname(__file__), "resources", "logo.ico")
         self.setWindowIcon(QIcon(icon_path))
         self.categories = self.load_categories()
@@ -95,7 +98,6 @@ class EquationStudyApp(BaseApp):
         self.main_layout.addWidget(self.knowledge_view)
 
         # 导航按钮（优化样式+阴影）
-        from PyQt5.QtWidgets import QGraphicsDropShadowEffect
         def add_button_effect(button):
             shadow = QGraphicsDropShadowEffect()
             shadow.setBlurRadius(8)   # 阴影模糊半径
